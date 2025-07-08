@@ -36,32 +36,32 @@
       }
     }
  },
-    "jetpackjoyridetheme2": {
-    "title": "Jetpack Joyride Main Theme",
-    "artist": "Halfbrick",
-    "album": "Jetpack Joyride",
-    "charter": "LysiX",
-    "releaseYear": 2011,
-    "genre": "Jazz EDM",
-    "cover": "jetpackjoyridetheme.png",
+    "myownsummer": {
+    "title": "My Own Summer (Shove It)",
+    "artist": "Deftones",
+    "album": "Around The Fur",
+    "charter": "Harmonix, LysiX",
+    "releaseYear": 1997,
+    "genre": "Metal",
+    "cover": "",
     "bpm": 123,
     "duration": "2m 13s",
     "key": "A♭ Major",
     "difficulties": {
-      "vocals": -1,
-      "lead": 5,
-      "bass": 4,
-      "drums": 5,
+      "vocals": 2,
+      "lead": 4,
+      "bass": 3,
+      "drums": 3,
       "plastic-bass": 4,
-      "plastic-drums": 6,
-      "plastic-guitar": 5
+      "plastic-drums": 2,
+      "plastic-guitar": 2
     },
-    "createdAt": "2025-03-16T22:20:17.000Z",
-    "songlink": "https://song.link/s/5TVBHi9mXqELfrGe9BreOG",
-    "previewUrl": "jetpackjoyridetheme.mp3",
-    "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Jetpack%20Joyride%20Main%20Theme.zip",
-    "preview_time": 50794,
-    "preview_end_time": 75000,
+    "createdAt": "2024-07-13T17:46:25.000Z",
+    "songlink": "",
+    "previewUrl": "",
+    "download": "",
+    "preview_time": 0,
+    "preview_end_time": 30000,
     "modalShadowColors": {
       "default": {
         "color1": "",
