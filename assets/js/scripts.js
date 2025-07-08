@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
 
-      const previewSrc = `EncoreCustoms/assets/audio/${track.previewUrl}`;
+      const previewSrc = `/EncoreCustoms/assets/audio/${track.previewUrl}`;
 
       if (audio.src !== previewSrc) {
         audio.src = previewSrc;
@@ -286,21 +286,21 @@ document.addEventListener('DOMContentLoaded', () => {
       tracksToPreload.forEach((track) => {
         if (track.cover) {
           const img = new Image();
-          img.src = `EncoreCustoms/assets/covers/${track.cover}`;
+          img.src = `/EncoreCustoms/assets/covers/${track.cover}`;
           img.onload = () => {
             loadedCount++;
             updateProgress();
           };
           img.onerror = () => {
-            console.error(`Failed to preload cover: /assets/covers/${track.cover}`);
-            img.src = '/assets/covers/fallback.jpg';
+            console.error(`Failed to preload cover: /EncoreCustoms/assets/covers/${track.cover}`);
+            img.src = '/EncoreCustoms/assets/covers/fallback.jpg';
             loadedCount++;
             updateProgress();
           };
         }
         if (track.videoUrl) {
           const video = document.createElement('video');
-          video.src = `EncoreCustoms/assets/preview/${track.videoUrl}`;
+          video.src = `/EncoreCustoms/assets/preview/${track.videoUrl}`;
           video.preload = 'auto';
           video.onloadeddata = () => {
             loadedCount++;
@@ -580,7 +580,7 @@ document.addEventListener('DOMContentLoaded', () => {
         videoElement.autoplay = true;
         videoElement.muted = true;
         videoElement.loop = true;
-        videoElement.innerHTML = `<source src="/assets/preview/${videoUrl}" type="video/mp4">`;
+        videoElement.innerHTML = `<source src="/EncoreCustoms/assets/preview/${videoUrl}" type="video/mp4">`;
         videoElement.style.objectFit = 'cover';
         videoElement.style.objectPosition = `center ${positionPercent}%`;
         videoElement.style.transform = `scale(${videoZoom || 1})`;
@@ -599,7 +599,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const modalDetails = elements.modal.querySelector('#modalDetails');
       const modalDifficulties = elements.modal.querySelector('#modalDifficulties');
 
-      if (modalCover) modalCover.src = `EncoreCustoms/assets/covers/${cover}`;
+      if (modalCover) modalCover.src = `/EncoreCustoms/assets/covers/${cover}`;
 
       utils.applyShrinkLogic(modalTitle, title, 14);
       utils.applyShrinkLogic(modalArtist, artist, 18);
@@ -835,7 +835,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       }
 
-      if (elements.videoTrackCover) elements.videoTrackCover.src = `EncoreCustoms/assets/covers/${track.cover}`;
+      if (elements.videoTrackCover) elements.videoTrackCover.src = `/EncoreCustoms/assets/covers/${track.cover}`;
       if (elements.videoTrackTitle) elements.videoTrackTitle.textContent = track.title;
       if (elements.videoTrackArtist) elements.videoTrackArtist.textContent = track.artist;
       if (elements.videoTrackDuration) elements.videoTrackDuration.textContent = `${track.releaseYear} | ${track.duration}`;
@@ -944,7 +944,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const loadingSpinner = document.createElement('div');
         loadingSpinner.className = 'loading-spinner';
         const img = new Image();
-        img.src = `EncoreCustoms/assets/covers/${track.cover}`;
+        img.src = `/EncoreCustoms/assets/covers/${track.cover}`;
         img.alt = `${track.title} Cover`;
         img.style.display = 'none';
         img.onload = () => {
@@ -953,8 +953,8 @@ document.addEventListener('DOMContentLoaded', () => {
           img.classList.add('loaded');
         };
         img.onerror = () => {
-          console.error(`Failed to load cover: EncoreCustoms/assets/covers/${track.cover}`);
-          img.src = '/assets/covers/fallback.jpg';
+          console.error(`Failed to load cover: /EncoreCustoms/assets/covers/${track.cover}`);
+          img.src = '/EncoreCustoms/assets/covers/fallback.jpg';
           loadingSpinner.remove();
           img.style.display = '';
           img.classList.add('loaded');
@@ -1113,7 +1113,7 @@ document.addEventListener('DOMContentLoaded', () => {
           }
 
           difficultyElement.innerHTML = `
-            <img src="EncoreCustoms/assets/images/instruments/${imageName}" alt="${instrument}" class="instrument-image">
+            <img src="/EncoreCustoms/assets/images/instruments/${imageName}" alt="${instrument}" class="instrument-image">
             <div class="difficulty-bars">${barsHTML}</div>
           `;
 
