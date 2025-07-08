@@ -43,10 +43,10 @@
     "charter": "Harmonix, LysiX",
     "releaseYear": 1997,
     "genre": "Metal",
-    "cover": "",
-    "bpm": 123,
-    "duration": "2m 13s",
-    "key": "A♭ Major",
+    "cover": "myownsummer.png",
+    "bpm": 72,
+    "duration": "3m 39s",
+    "key": "C# Major",
     "difficulties": {
       "vocals": 2,
       "lead": 4,
@@ -57,9 +57,9 @@
       "plastic-guitar": 2
     },
     "createdAt": "2024-07-13T17:46:25.000Z",
-    "songlink": "",
-    "previewUrl": "",
-    "download": "",
+    "songlink": "https://song.link/s/1158ckiB5S4cpsdYHDB9IF",
+    "previewUrl": "myownsummer.mp3",
+    "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Deftones%20-%20My%20Own%20Summer.zip",
     "preview_time": 0,
     "preview_end_time": 30000,
     "modalShadowColors": {
