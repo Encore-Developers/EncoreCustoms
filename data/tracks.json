@@ -41,6 +41,8 @@
     
     "createdAt": "2025-03-16T22:20:17.000Z",
     "songlink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "previewUrl": "jetpackjoyridetheme.mp3",
+    "download": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "preview_time": 50794,
     "preview_end_time": 75000,
     "modalShadowColors": {
@@ -119,8 +121,8 @@
     "songlink": "https://song.link/s/1158ckiB5S4cpsdYHDB9IF",
     "previewUrl": "myownsummer.mp3",
     "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Deftones%20-%20My%20Own%20Summer.zip",
-    "preview_time": 0,
-    "preview_end_time": 30000,
+    "preview_time": 82000,
+    "preview_end_time": 104000,
     "modalShadowColors": {
       "default": {
         "color1": "",
@@ -139,8 +141,9 @@
     "charter": "tposejank",
     "releaseYear": 2024,
     "genre": "Chill",
-    "source": "Custom",
-    "cover": "notaskin4much.png",
+    "source": "custom",
+    "cover": "notaskinformuch.png",
+    "loading_phrase": "im not askin for much but i want u",
     "bpm": 127,
     "ageRating": "Everyone",
     "duration": "2m 13s",
@@ -196,8 +199,8 @@
     
     "createdAt": "2024-02-29T20:43:39.000Z",
     "previewUrl": "untitledchordsthing.mp3",
-    "preview_time": 10000,
-    "preview_end_time": 30000,
+    "preview_time": 16000,
+    "preview_end_time": 41060,
     "modalShadowColors": {
       "default": {
         "color1": "",
@@ -208,5 +211,43 @@
         "color2": "" 
       }
     }
- }
+ },
+ "godzilla": {
+    "title": "Godzilla (feat. Juice WRLD)",
+    "artist": "Eminem",
+    "album": "Music to Be Murdered By",
+    "charter": "Equinox",
+    "releaseYear": 2020,
+    "genre": "Rap",
+    "cover": "musictobemurderedby.png",
+    "source": "custom",
+    "key": "B♭ Minor",
+    "bpm": 166,
+    "duration": "3m 40s",
+    "ageRating": "Mature",
+
+    "difficulties": {
+      "vocals": 7,
+      "lead": 3,
+      "bass": 2,
+      "drums": 4
+    },
+    
+    "createdAt": "2024-06-26T04:41:13.000Z",
+    "songlink": "https://song.link/us/i/1495267448",
+    "previewUrl": "godzilla.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Eminem,%20Juice%20WRLD%20-%20Godzilla.zip",
+    "preview_time": 40480,
+    "preview_end_time": 63000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+  }
 }
