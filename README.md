@@ -1,9 +1,9 @@
-# Jaydenz Projects
-This is a repository for the jaydenzkoci.github.io website. Credit to FNFestival.co for the source code.
-Will be updated constantly.
+# Encore Customs Database
+This is a repository for Encore Customs.
+
 ## What is this?
- 
-This is a website that has information about my modded Fortnite Festival Tracks. Anything updated in https://github.com/JaydenzKoci/song-projects. Will be put here for easier viewing.
+This is a database that has information about all Encore Custom Tracks. Anything updated in https://github.com/Encore-Developers/songs. Will be put in this database.
 ## Other Repos Used
-- https://github.com/JaydenzKoci/song-projects
+- https://github.com/Encore-Developers/songs
+- https://github.com/JaydenzKoci/jaydenzkoci.github.io
 - https://github.com/JaydenzKoci/generateTrackInfo
