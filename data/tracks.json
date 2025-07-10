@@ -1,4 +1,53 @@
 {
+    "placeholder-ini": {
+    "title": "Goofy Placeholder Song for testing",
+    "artist": "Artist",
+    "album": "Album",
+    "charter": "Charter",
+    "releaseYear": 1620,
+    "genre": "Deathmetal",
+    "cover": "jetpackjoyridetheme.png",
+    "bpm": 120,
+    "duration": "1m 30s",
+    "key": "C Major",
+    "ageRating": "Everyone",
+    "difficulties": {
+      "vocals": 6,
+      "lead": 6,
+      "keys": 6,
+      "rhythm": 6,
+      "bass": 6,
+      "drums": 6,
+
+      "plastic-bass": 6,
+      "plastic-drums": 6,
+      "plastic-guitar": 6,
+      "plastic-rhythm": 6,
+      "plastic-keys": 6,
+      "plastic-vocals": 6,
+
+      "real-guitar": 6,
+      "real-bass": 6,
+      "real-drums": 6,
+      "real-keys": 6
+    },
+    "createdAt": "2025-03-16T22:20:17.000Z",
+    "songlink": "https://song.link/s/5TVBHi9mXqELfrGe9BreOG",
+    "previewUrl": "jetpackjoyridetheme.mp3",
+    "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Jetpack%20Joyride%20Main%20Theme.zip",
+    "preview_time": 50794,
+    "preview_end_time": 75000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+ },
     "jetpackjoyridetheme": {
     "title": "Jetpack Joyride Main Theme",
     "artist": "Halfbrick",
@@ -72,5 +121,42 @@
         "color2": "" 
       }
     }
-  }
+  },
+  "notaskinformuch": {
+    "title": "not askin 4 much",
+    "artist": "Frizk",
+    "album": "not askin 4 much",
+    "charter": "tposejank",
+    "releaseYear": 2024,
+    "genre": "Chill",
+    "cover": "notaskin4much.png",
+    "bpm": 127,
+    "duration": "2m 13s",
+    "key": "G Major",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 4,
+      "bass": 1,
+      "drums": 4,
+      "plastic-bass": 1,
+      "plastic-drums": 4,
+      "plastic-guitar": 4
+    },
+    "createdAt": "2024-07-03T04:56:57.000Z",
+    "songlink": "https://song.link/us/i/1743981110",
+    "previewUrl": "notaskin4much.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Frizk%20-%20not%20askin%204%20much.zip",
+    "preview_time": 67200,
+    "preview_end_time": 90000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+ }
 }
