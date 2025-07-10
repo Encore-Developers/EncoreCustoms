@@ -1,18 +1,23 @@
 {
-    "placeholder-ini": {
+    "placeholder": {
     "title": "Goofy Placeholder Song for testing",
     "artist": "Artist",
+    "isCover": true,
+    "coverArist": "Cover Artist",
     "album": "Album",
     "charter": "Charter",
     "releaseYear": 1620,
     "genre": "Deathmetal",
-    "cover": "jetpackjoyridetheme.png",
+    "cover": "blank-cover.png",
+    "source": "custom",
+    "loading_phrase": "hi this is a loading phrase.... if you see this in the website or something, this is a template for us to add songs and is not actually a song.",
+    "key": "C Major",
     "bpm": 120,
     "duration": "1m 30s",
-    "key": "C Major",
     "ageRating": "Everyone",
+
+    "doubleBass": true,
     "proVoxHarmonies": "3",
-    "loading_phrase": "hi this is a loading phrase.... if you see this in the website or something, this is a template for us to add songs and is not actually a song.",
     "difficulties": {
       "vocals": 7,
       "lead": 7,
@@ -33,10 +38,9 @@
       "real-drums": 7,
       "real-keys": 7
     },
+    
     "createdAt": "2025-03-16T22:20:17.000Z",
     "songlink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "previewUrl": "jetpackjoyridetheme.mp3",
-    "download": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "preview_time": 50794,
     "preview_end_time": 75000,
     "modalShadowColors": {
@@ -55,8 +59,10 @@
     "artist": "Halfbrick",
     "album": "Jetpack Joyride",
     "charter": "LysiX",
+    "source": "custom",
     "releaseYear": 2011,
     "genre": "Jazz EDM",
+    "ageRating": "Everyone",
     "cover": "jetpackjoyridetheme.png",
     "bpm": 123,
     "duration": "2m 13s",
@@ -92,10 +98,12 @@
     "artist": "Deftones",
     "album": "Around The Fur",
     "charter": "Harmonix, LysiX",
+    "source": "rb3dlc",
     "releaseYear": 1997,
     "genre": "Metal",
     "cover": "myownsummer.png",
     "bpm": 72,
+    "ageRating": "Teen",
     "duration": "3m 39s",
     "key": "C# Major",
     "difficulties": {
@@ -131,8 +139,10 @@
     "charter": "tposejank",
     "releaseYear": 2024,
     "genre": "Chill",
+    "source": "Custom",
     "cover": "notaskin4much.png",
     "bpm": 127,
+    "ageRating": "Everyone",
     "duration": "2m 13s",
     "key": "G Major",
     "difficulties": {
@@ -150,6 +160,44 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Frizk%20-%20not%20askin%204%20much.zip",
     "preview_time": 67200,
     "preview_end_time": 90000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+ },
+ "untiltedchordsthing": {
+    "title": "Untitled Chords Thing",
+    "artist": "Synthfox Soundworks",
+    "charter": "Narrik Synthfox",
+    "genre": "Electronic",
+    "releaseYear": 2024,
+    "cover": "blank-cover.png",
+    "source": "encore",
+    "loading_phrase": "Woah it's an encore in here!",
+    "key": "B Minor",
+    "bpm": 150,
+    "duration": "1m 53s",
+    "ageRating": "Everyone",
+
+    "doubleBass": false,
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "vocals": 3,
+      "keys": 4,
+      "bass": 3,
+      "drums": 4
+    },
+    
+    "createdAt": "2024-02-29T20:43:39.000Z",
+    "previewUrl": "untitledchordsthing.mp3",
+    "preview_time": 10000,
+    "preview_end_time": 30000,
     "modalShadowColors": {
       "default": {
         "color1": "",
