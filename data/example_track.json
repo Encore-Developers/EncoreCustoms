@@ -1,0 +1,59 @@
+{
+"placeholder": {
+    "title": "Goofy Placeholder Song for testing",
+    "artist": "Artist",
+    "isCover": true,
+    "coverArist": "Cover Artist",
+    "album": "Album",
+    "charter": "Charter",
+    "releaseYear": 1620,
+    "genre": "Deathmetal",
+    "cover": "blank-cover.png",
+    "source": "custom",
+    "loading_phrase": "hi this is a loading phrase.... if you see this in the website or something, this is a template for us to add songs and is not actually a song.",
+    "key": "C Major",
+    "bpm": 120,
+    "duration": "1m 30s",
+    "ageRating": "Everyone",
+
+    "doubleBass": true,
+    "proVoxHarmonies": "3",
+    "difficulties": {
+      "vocals": 7,
+      "lead": 7,
+      "keys": 7,
+      "rhythm": 7,
+      "bass": 7,
+      "drums": 7,
+
+      "plastic-bass": 7,
+      "plastic-drums": 7,
+      "plastic-guitar": 7,
+      "plastic-rhythm": 7,
+      "plastic-keys": 7,
+      "pro-vocals": 7,
+
+      "real-guitar": 7,
+      "real-bass": 7,
+      "real-drums": 7,
+      "real-keys": 7
+    },
+    
+    "createdAt": "2025-03-16T22:20:17.000Z",
+    "songlink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "previewUrl": "jetpackjoyridetheme.mp3",
+    "download": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "preview_time": 50794,
+    "preview_end_time": 75000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+  }
+}

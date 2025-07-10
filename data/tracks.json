@@ -1,62 +1,13 @@
 {
-    "placeholder-ini": {
-    "title": "Goofy Placeholder Song for testing",
-    "artist": "Artist",
-    "album": "Album",
-    "charter": "Charter",
-    "releaseYear": 1620,
-    "genre": "Deathmetal",
-    "cover": "jetpackjoyridetheme.png",
-    "bpm": 120,
-    "duration": "1m 30s",
-    "key": "C Major",
-    "ageRating": "Everyone",
-    "proVoxHarmonies": "3",
-    "loading_phrase": "hi this is a loading phrase.... if you see this in the website or something, this is a template for us to add songs and is not actually a song.",
-    "difficulties": {
-      "vocals": 7,
-      "lead": 7,
-      "keys": 7,
-      "rhythm": 7,
-      "bass": 7,
-      "drums": 7,
-
-      "plastic-bass": 7,
-      "plastic-drums": 7,
-      "plastic-guitar": 7,
-      "plastic-rhythm": 7,
-      "plastic-keys": 7,
-      "pro-vocals": 7,
-
-      "real-guitar": 7,
-      "real-bass": 7,
-      "real-drums": 7,
-      "real-keys": 7
-    },
-    "createdAt": "2025-03-16T22:20:17.000Z",
-    "songlink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "previewUrl": "jetpackjoyridetheme.mp3",
-    "download": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "preview_time": 50794,
-    "preview_end_time": 75000,
-    "modalShadowColors": {
-      "default": {
-        "color1": "",
-        "color2": ""  
-      },
-      "hover": {
-        "color1": "",
-        "color2": "" 
-      }
-    }
- },
     "jetpackjoyridetheme": {
     "title": "Jetpack Joyride Main Theme",
     "artist": "Halfbrick",
     "album": "Jetpack Joyride",
     "charter": "LysiX",
+    "source": "custom",
     "releaseYear": 2011,
     "genre": "Jazz EDM",
+    "ageRating": "Everyone",
     "cover": "jetpackjoyridetheme.png",
     "bpm": 123,
     "duration": "2m 13s",
@@ -92,10 +43,12 @@
     "artist": "Deftones",
     "album": "Around The Fur",
     "charter": "Harmonix, LysiX",
+    "source": "rb3dlc",
     "releaseYear": 1997,
     "genre": "Metal",
     "cover": "myownsummer.png",
     "bpm": 72,
+    "ageRating": "Teen",
     "duration": "3m 39s",
     "key": "C# Major",
     "difficulties": {
@@ -111,8 +64,8 @@
     "songlink": "https://song.link/s/1158ckiB5S4cpsdYHDB9IF",
     "previewUrl": "myownsummer.mp3",
     "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Deftones%20-%20My%20Own%20Summer.zip",
-    "preview_time": 0,
-    "preview_end_time": 30000,
+    "preview_time": 82000,
+    "preview_end_time": 104000,
     "modalShadowColors": {
       "default": {
         "color1": "",
@@ -131,8 +84,11 @@
     "charter": "tposejank",
     "releaseYear": 2024,
     "genre": "Chill",
-    "cover": "notaskin4much.png",
+    "source": "custom",
+    "cover": "notaskinformuch.png",
+    "loading_phrase": "im not askin for much but i want u",
     "bpm": 127,
+    "ageRating": "Everyone",
     "duration": "2m 13s",
     "key": "G Major",
     "difficulties": {
@@ -160,5 +116,81 @@
         "color2": "" 
       }
     }
- }
+ },
+ "untiltedchordsthing": {
+    "title": "Untitled Chords Thing",
+    "artist": "Synthfox Soundworks",
+    "charter": "Narrik Synthfox",
+    "genre": "Electronic",
+    "releaseYear": 2024,
+    "cover": "blank-cover.png",
+    "source": "encore",
+    "loading_phrase": "Woah it's an encore in here!",
+    "key": "B Minor",
+    "bpm": 150,
+    "duration": "1m 53s",
+    "ageRating": "Everyone",
+
+    "doubleBass": false,
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "vocals": 3,
+      "keys": 4,
+      "bass": 3,
+      "drums": 4
+    },
+    
+    "createdAt": "2024-02-29T20:43:39.000Z",
+    "previewUrl": "untitledchordsthing.mp3",
+    "preview_time": 16000,
+    "preview_end_time": 41060,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+ },
+ "godzilla": {
+    "title": "Godzilla (feat. Juice WRLD)",
+    "artist": "Eminem",
+    "album": "Music to Be Murdered By",
+    "charter": "Equinox",
+    "releaseYear": 2020,
+    "genre": "Rap",
+    "cover": "musictobemurderedby.png",
+    "source": "custom",
+    "key": "B♭ Minor",
+    "bpm": 166,
+    "duration": "3m 40s",
+    "ageRating": "Mature",
+
+    "difficulties": {
+      "vocals": 7,
+      "lead": 3,
+      "bass": 2,
+      "drums": 4
+    },
+    
+    "createdAt": "2024-06-26T04:41:13.000Z",
+    "songlink": "https://song.link/us/i/1495267448",
+    "previewUrl": "godzilla.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Eminem,%20Juice%20WRLD%20-%20Godzilla.zip",
+    "preview_time": 40480,
+    "preview_end_time": 63000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+  }
 }
