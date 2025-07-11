@@ -50,7 +50,7 @@
     "bpm": 72,
     "ageRating": "Teen",
     "duration": "3m 39s",
-    "key": "C# Major",
+    "key": "D♭ Major",
     "difficulties": {
       "vocals": 2,
       "lead": 4,
@@ -203,7 +203,7 @@
     "bpm": 133,
     "duration": "3m 37s",
     "ageRating": "Teen",
-    
+
     "difficulties": {
       "vocals": 2,
       "lead": 4,
@@ -221,6 +221,34 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Queens%20of%20the%20Stone%20Age%20-%203's%20&%207's.zip",
     "preview_time": 92200,
     "preview_end_time": 139000
+  },
+  "dieinafire": {
+    "title": "Die In a Fire (feat. EileMonty & Orko)",
+    "artist": "The Living Tombstone",
+    "album": "Internet Childhood",
+    "charter": "Equinox",
+    "releaseYear": 2015,
+    "genre": "Pop",
+    "cover": "internet-childhood.png",
+    "source": "custom",
+    "key": "E♭ Minor",
+    "bpm": 110,
+    "duration": "3m 09s",
+    "ageRating": "Teen",
+
+    "difficulties": {
+      "drums": 4,
+      "lead": 4,
+      "bass": 3,
+      "vocals": 3
+    },
+    
+    "createdAt": "2024-06-26T05:15:37.000Z",
+    "songlink": "https://song.link/us/i/989232818",
+    "previewUrl": "dieinafire.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/The%20Living%20Tombstone%20-%20Die%20In%20a%20Fire.zip",
+    "preview_time": 37394,
+    "preview_end_time": 65454
   }
 }
 
