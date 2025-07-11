@@ -130,8 +130,6 @@
     "bpm": 150,
     "duration": "1m 53s",
     "ageRating": "Everyone",
-    "doubleBass": false,
-    "proVoxHarmonies": "0",
     "difficulties": {
       "vocals": 3,
       "keys": 4,
@@ -225,11 +223,10 @@
   "dieinafire": {
     "title": "Die In a Fire (feat. EileMonty & Orko)",
     "artist": "The Living Tombstone",
-    "album": "Internet Childhood",
     "charter": "Equinox",
     "releaseYear": 2015,
     "genre": "Pop",
-    "cover": "internet-childhood.png",
+    "cover": "dieinafire.png",
     "source": "custom",
     "key": "E♭ Minor",
     "bpm": 110,
@@ -249,6 +246,44 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/The%20Living%20Tombstone%20-%20Die%20In%20a%20Fire.zip",
     "preview_time": 37394,
     "preview_end_time": 65454
+  },
+  "core": {
+    "title": "CORE",
+    "artist": "Toby Fox",
+    "album": "UNDERTALE Soundtrack",
+    "charter": "foodcake",
+    "releaseYear": 2015,
+    "genre": "Other",
+    "cover": "undertale-ost.png",
+    "source": "custom",
+    "key": "D♭ Minor",
+    "bpm": 140,
+    "duration": "2m 53s",
+    "ageRating": "Everyone",
+
+    "proVoxHarmonies": "2",
+    "difficulties": {
+      "drums": 3,
+      "lead": 4,
+      "bass": 4,
+      "keys": 4,
+      "vocals": 2,
+
+      "plastic-drums": 3,
+      "plastic-guitar": 4,
+      "plastic-bass": 4,
+      "plastic-keys": 4,
+      "pro-vocals": 2,
+
+      "real-keys": 4
+    },
+    
+    "createdAt": "2025-03-16T22:20:17.000Z",
+    "songlink": "https://song.link/i/1528217860",
+    "previewUrl": "core.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Toby%20Fox%20-%20CORE.zip",
+    "preview_time": 24000,
+    "preview_end_time": 54000
   }
 }
 
