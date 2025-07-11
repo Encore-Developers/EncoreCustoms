@@ -19,23 +19,23 @@
     "doubleBass": true,
     "proVoxHarmonies": "3",
     "difficulties": {
-      "vocals": 7,
+      "drums": 7,
       "lead": 7,
-      "keys": 7,
       "rhythm": 7,
       "bass": 7,
-      "drums": 7,
+      "keys": 7,
+      "vocals": 7,
 
-      "plastic-bass": 7,
       "plastic-drums": 7,
       "plastic-guitar": 7,
       "plastic-rhythm": 7,
+      "plastic-bass": 7,
       "plastic-keys": 7,
       "pro-vocals": 7,
 
+      "real-drums": 7,
       "real-guitar": 7,
       "real-bass": 7,
-      "real-drums": 7,
       "real-keys": 7
     },
     
@@ -44,16 +44,6 @@
     "previewUrl": "jetpackjoyridetheme.mp3",
     "download": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "preview_time": 50794,
-    "preview_end_time": 75000,
-    "modalShadowColors": {
-      "default": {
-        "color1": "",
-        "color2": ""  
-      },
-      "hover": {
-        "color1": "",
-        "color2": "" 
-      }
-    }
+    "preview_end_time": 75000
   }
 }

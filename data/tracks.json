@@ -188,5 +188,39 @@
         "color2": "" 
       }
     }
+  },
+  "threesandsevens": {
+    "title": "3's & 7's",
+    "artist": "Queens of the Stone Age",
+    "album": "Era Vulgaris",
+    "charter": "Harmonix, solamint",
+    "releaseYear": 2007,
+    "genre": "Alternative",
+    "cover": "era-vulgaris.png",
+    "source": "rb2dlc",
+    "loading_phrase": "A classic from one of the most well known Guitar Hero games",
+    "key": "B♭ Minor",
+    "bpm": 133,
+    "duration": "3m 37s",
+    "ageRating": "Teen",
+    
+    "difficulties": {
+      "vocals": 2,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+
+      "plastic-bass": 4,
+      "plastic-drums": 5,
+      "plastic-guitar": 4
+    },
+    
+    "createdAt": "2024-06-30T23:04:00.000Z",
+    "songlink": "https://song.link/us/i/1440660660",
+    "previewUrl": "threesandsevens.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Queens%20of%20the%20Stone%20Age%20-%203's%20&%207's.zip",
+    "preview_time": 92200,
+    "preview_end_time": 139000
   }
 }
+
