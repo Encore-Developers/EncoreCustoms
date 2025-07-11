@@ -284,6 +284,38 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Toby%20Fox%20-%20CORE.zip",
     "preview_time": 24000,
     "preview_end_time": 54000
+  },
+  "infernoplex": {
+    "title": "Infernoplex",
+    "artist": "Dimrain47",
+    "album": "The Dimrain47 Collection",
+    "charter": "LysiX",
+    "releaseYear": 2006,
+    "genre": "Electronic",
+    "cover": "dimrain47-collection.png",
+    "source": "custom",
+    "key": "C Minor",
+    "bpm": 175,
+    "duration": "3m 50s",
+    "ageRating": "Everyone",
+
+    "difficulties": {
+      "drums": 7,
+      "lead": 7,
+      "bass": 6,
+      "vocals": 5,
+
+      "plastic-drums": 7,
+      "plastic-guitar": 7,
+      "plastic-bass": 6
+    },
+    
+    "createdAt": "2024-09-29T01:10:27Z",
+    "songlink": "https://song.link/us/i/1491197688",
+    "previewUrl": "infernoplex.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20Infernoplex.zip",
+    "preview_time": 37309,
+    "preview_end_time": 63366
   }
 }
 
