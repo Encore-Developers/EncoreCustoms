@@ -353,7 +353,7 @@
   },
   "skybasezoneCSFport": {
     "title": "Sky Base Zone (C64)",
-    "artist": "Yuzo Koshiro",
+    "artist": "SEGA",
     "isCover": true,
     "coverArist": "Encore",
     "album": "Sonic the Hedgehog for C64",
@@ -375,10 +375,41 @@
     },
     
     "createdAt": "2024-07-13T03:09:36Z",
-    "previewUrl": "skybasezoneEncore.mp3",
+    "previewUrl": "skybasezoneCSFport.mp3",
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/SEGA%20(Yuzo%20Koshiro),%20Encore%20-%20Sky%20Base%20Zone%20(C64).zip",
     "preview_time": 3000,
     "preview_end_time": 34997
+  },
+  "stardustspeedwaypast": {
+    "title": "Stardust Speedway Zone (Past)",
+    "artist": "SEGA",
+    "album": "Sonic CD",
+    "charter": "LysiX",
+    "releaseYear": 1993,
+    "genre": "Chiptune",
+    "cover": "sonicCD.png",
+    "source": "custom",
+    "key": "A♭ Minor",
+    "bpm": 120,
+    "duration": "2m 40s",
+    "ageRating": "Everyone",
+
+    "difficulties": {
+      "drums": 5,
+      "lead": 7,
+      "bass": 6,
+      "vocals": 4,
+
+      "plastic-drums": 6,
+      "plastic-guitar": 7,
+      "plastic-bass": 6
+    },
+    
+    "createdAt": "2024-07-13T04:42:12Z",
+    "previewUrl": "stardustspeedwaypast.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/SEGA%20-%20Stardust%20Speedway%20Zone%20(Past).zip",
+    "preview_time": 68270,
+    "preview_end_time": 100385
   }
 }
 
