@@ -350,6 +350,35 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/NyxTheShield%20-%20Bring%20it%20On%20(Rock%20Ver.).zip",
     "preview_time": 55999,
     "preview_end_time": 87999
+  },
+  "skybasezoneCSFport": {
+    "title": "Sky Base Zone (C64)",
+    "artist": "Yuzo Koshiro",
+    "isCover": true,
+    "coverArist": "Encore",
+    "album": "Sonic the Hedgehog for C64",
+    "charter": "LysiX",
+    "releaseYear": 1991,
+    "newYear": 2021,
+    "genre": "Chiptune",
+    "cover": "sonic1991.png",
+    "source": "custom",
+    "key": "D Minor",
+    "bpm": 150,
+    "duration": "1m 31s",
+    "ageRating": "Everyone",
+
+    "difficulties": {
+      "lead": 6,
+      "bass": 5,
+      "vocals": 5
+    },
+    
+    "createdAt": "2024-07-13T03:09:36Z",
+    "previewUrl": "skybasezoneC64.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/SEGA%20(Yuzo%20Koshiro),%20Encore%20-%20Sky%20Base%20Zone%20(C64).zip",
+    "preview_time": 3000,
+    "preview_end_time": 34997
   }
 }
 
