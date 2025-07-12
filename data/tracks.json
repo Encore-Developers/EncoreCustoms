@@ -345,8 +345,9 @@
     },
     
     "createdAt": "2024-09-14T21:12:14.000Z",
+    "songlink": "https://www.youtube.com/watch?v=4ygaEqHqdsI",
     "previewUrl": "bringitonrockversion.mp3",
-    "download": "hhttps://raw.githubusercontent.com/Encore-Developers/songs/main/NyxTheShield%20-%20Bring%20it%20On%20(Rock%20Ver.).zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/NyxTheShield%20-%20Bring%20it%20On%20(Rock%20Ver.).zip",
     "preview_time": 55999,
     "preview_end_time": 87999
   }
