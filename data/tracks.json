@@ -316,6 +316,40 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20Infernoplex.zip",
     "preview_time": 37309,
     "preview_end_time": 63366
+  },
+  "bringitonrockversion": {
+    "title": "Bring it On (Rock Ver.)",
+    "artist": "NyxTheShield",
+    "album": "Glitchtale OST",
+    "charter": "LysiX",
+    "releaseYear": 2018,
+    "genre": "Rock",
+    "cover": "bringitonrockversion.png",
+    "source": "custom",
+    "loading_phrase": "*In the room you find old plastic instruments connected to a game console.",
+    "key": "A♭ Minor",
+    "bpm": 180,
+    "duration": "1m 53s",
+    "ageRating": "Everyone",
+
+    "doubleBass": true,
+    "difficulties": {
+      "drums": 6,
+      "lead": 5,
+      "bass": 4,
+      "vocals": 5,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 6,
+      "plastic-bass": 4
+    },
+    
+    "createdAt": "2024-09-14T21:12:14.000Z",
+    "songlink": "https://www.youtube.com/watch?v=4ygaEqHqdsI",
+    "previewUrl": "bringitonrockversion.mp3",
+    "download": "hhttps://raw.githubusercontent.com/Encore-Developers/songs/main/NyxTheShield%20-%20Bring%20it%20On%20(Rock%20Ver.).zip",
+    "preview_time": 55999,
+    "preview_end_time": 87999
   }
 }
 
