@@ -433,6 +433,37 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/SEGA%20-%20Stardust%20Speedway%20Zone%20(Past).zip",
     "preview_time": 68270,
     "preview_end_time": 100385
+  },
+  "isolation": {
+    "title": "Isolation",
+    "artist": "Nighthawk22",
+    "album": "Darkmatter",
+    "charter": "LysiX",
+    "releaseYear": 2007,
+    "genre": "Electronic",
+    "cover": "darkmatter.png",
+    "source": "custom",
+    "key": "D Minor",
+    "bpm": 100,
+    "duration": "3m 25s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "difficulties": {
+      "drums": 7,
+      "lead": 7,
+      "bass": 3,
+      "vocals": 7
+    },
+    
+    "createdAt": "2024-07-13T03:38:25Z",
+    "songlink": "https://song.link/us/i/1465427459",
+    "previewUrl": "isolation.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Nighthawk22%20-%20Isolation.zip",
+    "preview_time": 49830,
+    "preview_end_time": 78630
   }
 }
+
 
