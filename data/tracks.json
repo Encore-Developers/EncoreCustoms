@@ -570,6 +570,37 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Michael%20McDonald%20-%20I%20Keep%20Forgettin'%20(Every%20Time%20You're%20Near).zip",
     "preview_time": 45012,
     "preview_end_time": 80484
+  },
+  "rollingontheduck": {
+    "title": "Rolling On the Duck",
+    "artist": "NieN",
+    "album": "DJMAX Online",
+    "charter": "Eezku",
+    "releaseYear": 2005,
+    "genre": "Hardcore",
+    "cover": "rollingontheduck.png",
+    "source": "custom",
+    "loading_phrase": "those who roll on the duck",
+    "key": "D Minor",
+    "bpm": 180,
+    "duration": "2m 20s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "format": "json",
+    "difficulties": {
+      "drums": 6,
+      "lead": 7,
+      "vocals": 2,
+      "plastic-guitar": 7
+    },
+    
+    "createdAt": "2025-06-15T04:20:00.000Z",
+    "previewUrl": "rollingontheduck.mp3",
+    "download": "https://github.com/JaydenzKoci/EncoreCustoms/raw/93a6d39a9d405de9a4c749fc4ae42e3995db9be9/assets/charts/Rolling%20On%20the%20Duck.zip",
+    "preview_time": 1390,
+    "preview_end_time": 40000
   }
 }
 
