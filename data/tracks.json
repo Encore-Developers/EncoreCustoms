@@ -8,7 +8,7 @@
     "releaseYear": 2011,
     "genre": "Jazz EDM",
     "ageRating": "Everyone",
-    "is_verified": "false",
+    "is_verified": "true",
     "is_cover": "false",
     "cover": "jetpackjoyridetheme.png",
     "bpm": 123,
@@ -493,6 +493,37 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20The%20Falling%20Mysts.zip",
     "preview_time": 33727,
     "preview_end_time": 72818
+  },
+  "latenighttalking": {
+    "title": "Late Night Talking",
+    "artist": "Harry Styles",
+    "album": "Harry's House",
+    "charter": "Broque",
+    "releaseYear": 2022,
+    "genre": "Pop",
+    "cover": "harryshouse.png",
+    "source": "custom",
+    "key": "B♭ Major",
+    "bpm": 115,
+    "duration": "2m 59s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+
+    "difficulties": {
+      "drums": 3,
+      "lead": 2,
+      "bass": 1,
+      "vocals": 3
+    },
+    
+    "createdAt": "2024-07-16T11:27:11Z",
+    "songlink": "https://song.link/us/i/1615585006",
+    "previewUrl": "latenighttalking.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Harry%20Styles%20-%20Late%20Night%20Talking.zip",
+    "preview_time": 45913,
+    "preview_end_time": 79304
   }
 }
 
