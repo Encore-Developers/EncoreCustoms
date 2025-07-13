@@ -14,6 +14,7 @@
     "bpm": 123,
     "duration": "2m 13s",
     "key": "A♭ Major",
+    "format": "ini",
     "difficulties": {
       "vocals": -1,
       "lead": 5,
@@ -47,6 +48,7 @@
     "charter": "Harmonix, LysiX",
     "source": "rb3dlc",
     "releaseYear": 1997,
+    "format": "json",
     "genre": "Metal",
     "cover": "myownsummer.png",
     "bpm": 72,
@@ -83,6 +85,7 @@
   },
   "notaskinformuch": {
     "title": "not askin 4 much",
+    "format": "json",
     "artist": "Frizk",
     "album": "not askin 4 much",
     "charter": "tposejank",
@@ -125,6 +128,7 @@
  },
  "untitledchordsthing": {
     "title": "Untitled Chords Thing",
+    "format": "json",
     "artist": "Synthfox Soundworks",
     "charter": "Narrik Synthfox",
     "genre": "Electronic",
@@ -161,6 +165,7 @@
  },
  "godzilla": {
     "title": "Godzilla (feat. Juice WRLD)",
+    "format": "json",
     "artist": "Eminem",
     "album": "Music to Be Murdered By",
     "charter": "Equinox",
@@ -199,6 +204,7 @@
   },
   "threesandsevens": {
     "title": "3's & 7's",
+    "format": "json",
     "artist": "Queens of the Stone Age",
     "album": "Era Vulgaris",
     "charter": "Harmonix, solamint",
@@ -235,6 +241,7 @@
   "dieinafire": {
     "title": "Die In a Fire (feat. EileMonty & Orko)",
     "artist": "The Living Tombstone",
+    "format": "json",
     "charter": "Equinox",
     "releaseYear": 2015,
     "genre": "Pop",
@@ -263,6 +270,7 @@
   },
   "core": {
     "title": "CORE",
+    "format": "ini",
     "artist": "Toby Fox",
     "album": "UNDERTALE Soundtrack",
     "charter": "foodcake",
@@ -304,6 +312,7 @@
   "infernoplex": {
     "title": "Infernoplex",
     "artist": "Dimrain47",
+    "format": "json",
     "album": "The Dimrain47 Collection",
     "charter": "LysiX",
     "releaseYear": 2006,
@@ -338,6 +347,7 @@
   "bringitonrockversion": {
     "title": "Bring it On (Rock Ver.)",
     "artist": "NyxTheShield",
+    "format": "json",
     "album": "Glitchtale OST",
     "charter": "LysiX",
     "releaseYear": 2018,
@@ -373,6 +383,7 @@
   },
   "skybasezoneCSFport": {
     "title": "Sky Base Zone (C64)",
+    "format": "json",
     "artist": "Encore (Made Famous By SEGA)",
     "coverArist": "Encore",
     "album": "Sonic the Hedgehog for C64",
@@ -405,6 +416,7 @@
     "title": "Stardust Speedway Zone (Past)",
     "artist": "SEGA",
     "album": "Sonic CD",
+    "format": "json",
     "charter": "LysiX",
     "releaseYear": 1993,
     "genre": "Chiptune",
@@ -441,6 +453,7 @@
     "charter": "LysiX",
     "releaseYear": 2007,
     "genre": "Electronic",
+    "format": "json",
     "cover": "darkmatter.png",
     "source": "custom",
     "key": "D Minor",
@@ -467,6 +480,7 @@
   "thefallingmysts": {
     "title": "The Falling Mysts",
     "artist": "Dimrain47",
+    "format": "json",
     "album": "The Dimrain47 Collection",
     "charter": "LysiX",
     "releaseYear": 2012,
@@ -497,6 +511,7 @@
   "latenighttalking": {
     "title": "Late Night Talking",
     "artist": "Harry Styles",
+    "format": "json",
     "album": "Harry's House",
     "charter": "Broque",
     "releaseYear": 2022,
@@ -524,6 +539,37 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Harry%20Styles%20-%20Late%20Night%20Talking.zip",
     "preview_time": 45913,
     "preview_end_time": 79304
+  },
+  "ikeepforgettin": {
+    "title": "I Keep Forgettin' (Every Time You're Near)",
+    "artist": "Michael McDonald",
+    "album": "If That's What It Takes",
+    "charter": "Broque",
+    "releaseYear": 1982,
+    "genre": "R&B",
+    "cover": "ifthatswhatittakes.png",
+    "source": "custom",
+    "key": "E♭ Major",
+    "bpm": 95,
+    "duration": "3m 46s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "format": "json",
+    "difficulties": {
+      "drums": 4,
+      "lead": 4,
+      "bass": 4,
+      "vocals": 3
+    },
+    
+    "createdAt": "2024-07-12T22:13:00Z",
+    "songlink": "https://song.link/us/i/358568310",
+    "previewUrl": "ikeepforgettin.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Michael%20McDonald%20-%20I%20Keep%20Forgettin'%20(Every%20Time%20You're%20Near).zip",
+    "preview_time": 45012,
+    "preview_end_time": 80484
   }
 }
 

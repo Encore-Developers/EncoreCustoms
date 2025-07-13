@@ -19,6 +19,7 @@
     "newYear": 2021,
 
     "doubleBass": "true",
+    "format": "ini",
     "proVoxHarmonies": "3",
     "difficulties": {
       "drums": 7,
