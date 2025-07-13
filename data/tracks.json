@@ -350,7 +350,7 @@
     "duration": "1m 53s",
     "ageRating": "Everyone",
     "is_verified": "true",
-    "is_cover": "true",
+    "is_cover": "false",
 
     "doubleBass": "true",
     "difficulties": {
