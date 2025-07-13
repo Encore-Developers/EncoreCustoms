@@ -463,6 +463,36 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Nighthawk22%20-%20Isolation.zip",
     "preview_time": 49830,
     "preview_end_time": 78630
+  },
+  "thefallingmysts": {
+    "title": "The Falling Mysts",
+    "artist": "Dimrain47",
+    "album": "The Dimrain47 Collection",
+    "charter": "LysiX",
+    "releaseYear": 2012,
+    "genre": "Electronic",
+    "cover": "dimrain47-collection.png",
+    "source": "custom",
+    "key": "D♭ Minor",
+    "bpm": 132,
+    "duration": "4m 58s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "difficulties": {
+      "drums": 6,
+      "lead": 7,
+      "bass": 2,
+      "vocals": 5
+    },
+    
+    "createdAt": "2024-07-03T10:25:06.000Z",
+    "songlink": "https://song.link/us/i/1491197700",
+    "previewUrl": "thefallingmysts.mp3",
+    "download": "hhttps://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20The%20Falling%20Mysts.zip",
+    "preview_time": 33727,
+    "preview_end_time": 72818
   }
 }
 
