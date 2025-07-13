@@ -633,6 +633,45 @@
     "download": "https://github.com/Encore-Developers/songs/blob/9daffde2aaa9e05683e5722d5807dec8bad0d61c/Limozeen%20-%20Because%2C%20It's%20Midnite.zip",
     "preview_time": 29298,
     "preview_end_time": 55632
+  },
+  "sugarcoatedtwoface": {
+    "title": "Sugar-Coated Two-Face",
+    "artist": "Saturn Candies",
+    "charter": "It's Only Connor",
+    "releaseYear": 2024,
+    "genre": "Alternative",
+    "cover": "sctf.png",
+    "source": "custom",
+    "loading_phrase": ""[...]This song is about having separated/divorced parents, each of them try to make themselves look like the better one, but they're both flawed." - Saturn Candies",
+    "key": "A♭ minor",
+    "bpm": 115,
+    "duration": "4m 43s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "format": "ini",
+    "proVoxHarmonies": "2",
+    "difficulties": {
+      "drums": 4,
+      "lead": 4,
+      "bass": 1,
+      "keys": 4,
+      "vocals": 4,
+
+      "plastic-drums": 3,
+      "plastic-guitar": 4,
+      "plastic-bass": 1,
+      "plastic-keys": 4,
+      "pro-vocals": 5
+    },
+    
+    "createdAt": "2025-03-25T07:28:10Z",
+    "songlink": "https://song.link/us/i/1764767919",
+    "previewUrl": "sugarcoatedtwoface.mp3",
+    "download": "https://github.com/Encore-Developers/songs/blob/c3c83e10a791ed16b2efcedcee72f32af95f29f6/Saturn%20Candies%20-%20Sugar-Coated%20Two-Face.zip",
+    "preview_time": 96000,
+    "preview_end_time": 121043
   }
 }
 
