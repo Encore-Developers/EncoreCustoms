@@ -601,6 +601,38 @@
     "download": "https://github.com/JaydenzKoci/EncoreCustoms/raw/93a6d39a9d405de9a4c749fc4ae42e3995db9be9/assets/charts/Rolling%20On%20the%20Duck.zip",
     "preview_time": 1390,
     "preview_end_time": 40000
+  },
+  "becauseitsmidnite": {
+    "title": "Because, It's Midnite",
+    "artist": "Limozeen",
+    "album": "Strong Bad Sings and Other Type Hits",
+    "charter": "Harmonix, Cameron44251",
+    "releaseYear": 2003,
+    "genre": "Metal",
+    "cover": "strongbadandothertypebeats.png",
+    "source": "gh80s",
+    "key": "D Minor",
+    "bpm": 148,
+    "duration": "2m 14s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "lead": 7,
+      "bass": 4,
+      "plastic-guitar": 7,
+      "plastic-bass": 4
+    },
+    
+    "createdAt": "2024-11-27T07:42:42Z",
+    "songlink": "https://song.link/us/i/1479443799",
+    "previewUrl": "becauseitsmidnite.mp3",
+    "download": "https://github.com/Encore-Developers/songs/blob/9daffde2aaa9e05683e5722d5807dec8bad0d61c/Limozeen%20-%20Because%2C%20It's%20Midnite.zip",
+    "preview_time": 29298,
+    "preview_end_time": 55632
   }
 }
 
