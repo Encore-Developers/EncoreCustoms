@@ -27,7 +27,7 @@
     "createdAt": "2025-03-16T22:20:17.000Z",
     "songlink": "https://song.link/s/5TVBHi9mXqELfrGe9BreOG",
     "previewUrl": "jetpackjoyridetheme.mp3",
-    "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Jetpack%20Joyride%20Main%20Theme.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Jetpack%20Joyride%20Main%20Theme.zip",
     "preview_time": 50794,
     "preview_end_time": 75000,
     "modalShadowColors": {
@@ -69,7 +69,7 @@
     "createdAt": "2024-07-13T17:46:25.000Z",
     "songlink": "https://song.link/s/1158ckiB5S4cpsdYHDB9IF",
     "previewUrl": "myownsummer.mp3",
-    "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Deftones%20-%20My%20Own%20Summer.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Deftones%20-%20My%20Own%20Summer.zip",
     "preview_time": 82000,
     "preview_end_time": 104000,
     "modalShadowColors": {
@@ -598,7 +598,7 @@
     
     "createdAt": "2025-06-15T08:20:00.000Z",
     "previewUrl": "rollingontheduck.mp3",
-    "download": "https://github.com/JaydenzKoci/EncoreCustoms/raw/93a6d39a9d405de9a4c749fc4ae42e3995db9be9/assets/charts/Rolling%20On%20the%20Duck.zip",
+    "download": "https://raw.githubusercontent.com/JaydenzKoci/EncoreCustoms/main/assets/charts/Rolling%20On%20the%20Duck.zip",
     "preview_time": 1390,
     "preview_end_time": 40000
   },
@@ -630,7 +630,7 @@
     "createdAt": "2024-11-27T07:42:42Z",
     "songlink": "https://song.link/us/i/1479443799",
     "previewUrl": "becauseitsmidnite.mp3",
-    "download": "https://github.com/Encore-Developers/songs/blob/9daffde2aaa9e05683e5722d5807dec8bad0d61c/Limozeen%20-%20Because%2C%20It's%20Midnite.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/9daffde2aaa9e05683e5722d5807dec8bad0d61c/Limozeen%20-%20Because%2C%20It's%20Midnite.zip",
     "preview_time": 29298,
     "preview_end_time": 55632
   },
@@ -669,7 +669,7 @@
     "createdAt": "2025-03-25T07:28:10Z",
     "songlink": "https://song.link/us/i/1764767919",
     "previewUrl": "sugarcoatedtwoface.mp3",
-    "download": "https://github.com/Encore-Developers/songs/blob/c3c83e10a791ed16b2efcedcee72f32af95f29f6/Saturn%20Candies%20-%20Sugar-Coated%20Two-Face.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/c3c83e10a791ed16b2efcedcee72f32af95f29f6/Saturn%20Candies%20-%20Sugar-Coated%20Two-Face.zip",
     "preview_time": 96000,
     "preview_end_time": 121043
   },
@@ -706,7 +706,7 @@
     "createdAt": "2025-02-02T04:09:51Z",
     "songlink": "https://song.link/us/i/1584124433",
     "previewUrl": "teardrinker.mp3",
-    "download": "https://github.com/Encore-Developers/songs/raw/43f68cf10761cd432973ddb8c581ea02b65ba457/Mastodon%20-%20Teardrinker.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Mastodon%20-%20Teardrinker.zip",
     "preview_time": 110000,
     "preview_end_time": 155000
   },
@@ -744,7 +744,7 @@
     "createdAt": "2025-01-11T12:39:34Z",
     "songlink": "https://song.link/us/i/1745118621",
     "previewUrl": "seashantytwo.mp3",
-    "download": "https://github.com/Encore-Developers/songs/raw/297cb64759f934cd78d326e47af17ba9724c3372/Jagex%20Audio%20Team%20-%20Sea%20Shanty%202.zip",
+    "download": "https://raw.githubusercontent.com/kimicake/songs/seashanty2/Jagex%20Audio%20Team%20-%20Sea%20Shanty%202.zip",
     "preview_time": 14400,
     "preview_end_time": 43200
   },
@@ -781,7 +781,7 @@
     "createdAt": "2025-04-23T02:42:12Z",
     "songlink": "https://song.link/us/i/1491197695",
     "previewUrl": "operationevolution.mp3",
-    "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Dimrain47%20-%20Operation%20Evolution.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20Operation%20Evolution.zip",
     "preview_time": 46000,
     "preview_end_time": 67000
   }
