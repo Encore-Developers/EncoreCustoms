@@ -316,7 +316,7 @@
     "album": "The Dimrain47 Collection",
     "charter": "LysiX",
     "releaseYear": 2006,
-    "genre": "Electronic",
+    "genre": "Techno",
     "cover": "dimrain47-collection.png",
     "source": "custom",
     "key": "C Minor",
@@ -484,7 +484,7 @@
     "album": "The Dimrain47 Collection",
     "charter": "LysiX",
     "releaseYear": 2012,
-    "genre": "Electronic",
+    "genre": "Techno",
     "cover": "dimrain47-collection.png",
     "source": "custom",
     "key": "D♭ Minor",
@@ -747,6 +747,43 @@
     "download": "https://github.com/Encore-Developers/songs/raw/297cb64759f934cd78d326e47af17ba9724c3372/Jagex%20Audio%20Team%20-%20Sea%20Shanty%202.zip",
     "preview_time": 14400,
     "preview_end_time": 43200
+  },
+  "operationevolution": {
+    "title": "Operation: Evolution",
+    "artist": "Dimrain47",
+    "album": "The Dimrain47 Collection",
+    "charter": "LysiX",
+    "releaseYear": 2007,
+    "genre": "Techno",
+    "cover": "dimrain47-collection.png",
+    "source": "custom",
+    "key": "G Minor",
+    "bpm": 165,
+    "duration": "5m 8s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "doubleBass": "true",
+    "format": "ini",
+    "difficulties": {
+      "drums": 7,
+      "lead": 7,
+      "bass": 3,
+      "keys": 7,
+
+      "plastic-drums": 7,
+      "plastic-guitar": 7,
+      "plastic-rhythm": 7,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2025-04-23T02:42:12Z",
+    "songlink": "https://song.link/us/i/1491197695",
+    "previewUrl": "operationevolution.mp3",
+    "download": "https://github.com/Encore-Developers/songs/raw/refs/heads/main/Dimrain47%20-%20Operation%20Evolution.zip",
+    "preview_time": 46000,
+    "preview_end_time": 67000
   }
 }
 
