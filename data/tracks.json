@@ -672,6 +672,43 @@
     "download": "https://github.com/Encore-Developers/songs/blob/c3c83e10a791ed16b2efcedcee72f32af95f29f6/Saturn%20Candies%20-%20Sugar-Coated%20Two-Face.zip",
     "preview_time": 96000,
     "preview_end_time": 121043
+  },
+  "teardrinker": {
+    "title": "Teardrinker",
+    "artist": "Mastodon",
+    "album": "Hushed and Grim",
+    "charter": "Equinox",
+    "releaseYear": 2021,
+    "genre": "Metal",
+    "cover": "hushedandgrim.png",
+    "source": "custom",
+    "loading_phrase": "The drummer Brann Dailor sings all parts on this song other than the bridge and prechorus.",
+    "key": "F Major",
+    "bpm": 127,
+    "duration": "5m 23s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 5,
+      "lead": 6,
+      "bass": 3,
+      "vocals": 2,
+
+      "plastic-drums": 4,
+      "plastic-guitar": 6,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2025-02-02T04:09:51Z",
+    "songlink": "https://song.link/us/i/1584124433",
+    "previewUrl": "teardrinker.mp3",
+    "download": "https://github.com/Encore-Developers/songs/raw/43f68cf10761cd432973ddb8c581ea02b65ba457/Mastodon%20-%20Teardrinker.zip",
+    "preview_time": 110000,
+    "preview_end_time": 75000
   }
 }
 
