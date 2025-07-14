@@ -275,7 +275,7 @@
     "album": "UNDERTALE Soundtrack",
     "charter": "foodcake",
     "releaseYear": 2015,
-    "genre": "Other",
+    "genre": "Electronic",
     "cover": "undertale-ost.png",
     "source": "custom",
     "key": "D♭ Minor",
@@ -708,7 +708,45 @@
     "previewUrl": "teardrinker.mp3",
     "download": "https://github.com/Encore-Developers/songs/raw/43f68cf10761cd432973ddb8c581ea02b65ba457/Mastodon%20-%20Teardrinker.zip",
     "preview_time": 110000,
-    "preview_end_time": 75000
+    "preview_end_time": 155000
+  },
+  "seashantytwo": {
+    "title": "Sea Shanty 2",
+    "artist": "Jagex Audio Team",
+    "album": "RuneScape: (Original Soundtrack Classics)",
+    "charter": "foodcake",
+    "releaseYear": 2018,
+    "genre": "Novelty",
+    "cover": "runescapeostclassics.png",
+    "source": "custom",
+    "key": "A Major",
+    "bpm": 100,
+    "duration": "2m 14s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "format": "ini",
+    "difficulties": {
+      "drums": 2,
+      "lead": 2,
+      "bass": 1,
+      "keys": 2,
+      "vocals": 1,
+
+      "plastic-drums": 2,
+      "plastic-guitar": 2,
+      "plastic-bass": 1,
+      "plastic-keys": 2,
+      "real-keys": 2
+    },
+    
+    "createdAt": "2025-01-11T12:39:34Z",
+    "songlink": "https://song.link/us/i/1745118621",
+    "previewUrl": "seashantytwo.mp3",
+    "download": "https://github.com/Encore-Developers/songs/raw/297cb64759f934cd78d326e47af17ba9724c3372/Jagex%20Audio%20Team%20-%20Sea%20Shanty%202.zip",
+    "preview_time": 14400,
+    "preview_end_time": 43200
   }
 }
 
