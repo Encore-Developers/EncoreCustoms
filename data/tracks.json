@@ -791,7 +791,7 @@
     "album": "Suicide and Sunshine",
     "charter": "Equinox",
     "releaseYear": 2023,
-    "genre": "Pop Rock",
+    "genre": "Pop Punk",
     "cover": "suicideandsunshine.png",
     "source": "custom",
     "loading_phrase": "The song tells a story of a friend the lead singer had and the feeling of dread to see someone suffering.",
@@ -818,9 +818,46 @@
     "createdAt": "2025-07-14T15:41:14Z",
     "songlink": "https://song.link/us/i/1675410960",
     "previewUrl": "blueeyedboy.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/raw/d9771118b26039f416651b2e11ae95ce146da1e7/Trophy%20Eyes%20-%20Blue%20Eyed%20Boy.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/d9771118b26039f416651b2e11ae95ce146da1e7/Trophy%20Eyes%20-%20Blue%20Eyed%20Boy.zip",
     "preview_time": 107294,
     "preview_end_time": 152470
+  },
+  "suicidepact": {
+    "title": "Suicide Pact",
+    "artist": "Trophy Eyes",
+    "album": "Chemical Miracle",
+    "charter": "Equinox",
+    "releaseYear": 2016,
+    "genre": "Pop Punk",
+    "cover": "chemicalmiracle.png",
+    "source": "custom",
+    "loading_phrase": "Suicide Pact is about riding along in the car and eventually crashing it and dying.",
+    "key": "D♭ Major",
+    "bpm": 208,
+    "duration": "4m 3s",
+    "ageRating": "Mature",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 7,
+      "lead": 4,
+      "bass": 3,
+      "vocals": 3,
+
+      "plastic-drums": 6,
+      "plastic-guitar": 3,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2025-07-15T15:44:39Z",
+    "songlink": "https://song.link/us/i/1136408914",
+    "previewUrl": "suicidepact.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/refs/heads/main/Trophy%20Eyes%20-%20Suicide%20Pact.zip",
+    "preview_time": 51314,
+    "preview_end_time": 88186
   }
 }
 
