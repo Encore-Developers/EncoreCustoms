@@ -44,8 +44,8 @@
     
     "createdAt": "2025-03-16T22:20:17.000Z",
     "songlink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "previewUrl": "jetpackjoyridetheme.mp3",
-    "download": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "previewUrl": "placeholder.mp3 [[must be the exact same as the shortname]]",
+    "download": "https://raw.githubusercontent.com//[[the rest of the link here]]",
     "preview_time": 50794,
     "preview_end_time": 75000
   }

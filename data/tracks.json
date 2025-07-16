@@ -784,6 +784,43 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20Operation%20Evolution.zip",
     "preview_time": 46000,
     "preview_end_time": 67000
+  },
+  "blueeyedboy": {
+    "title": "Blue Eyed Boy",
+    "artist": "Trophy Eyes",
+    "album": "Suicide and Sunshine",
+    "charter": "Equinox",
+    "releaseYear": 2023,
+    "genre": "Pop Rock",
+    "cover": "suicideandsunshine.png",
+    "source": "custom",
+    "loading_phrase": "The song tells a story of a friend the lead singer had and the feeling of dread to see someone suffering.",
+    "key": "D♭ Major",
+    "bpm": 170,
+    "duration": "3m 0s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 6,
+      "lead": 4,
+      "bass": 4,
+      "vocals": 3,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 3,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2025-07-14T15:41:14Z",
+    "songlink": "https://song.link/us/i/1675410960",
+    "previewUrl": "blueeyedboy.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/raw/d9771118b26039f416651b2e11ae95ce146da1e7/Trophy%20Eyes%20-%20Blue%20Eyed%20Boy.zip",
+    "preview_time": 107294,
+    "preview_end_time": 152470
   }
 }
 
