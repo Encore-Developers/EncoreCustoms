@@ -129,6 +129,7 @@
  "untitledchordsthing": {
     "title": "Untitled Chords Thing",
     "format": "json",
+    "currentVersion": "1",
     "artist": "Synthfox Soundworks",
     "charter": "Narrik Synthfox",
     "genre": "Electronic",

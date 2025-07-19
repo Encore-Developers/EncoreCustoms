@@ -17,6 +17,7 @@
     "is_verified": "true",
     "is_cover": "true",
     "newYear": 2021,
+    "currentVersion": "1",
 
     "doubleBass": "true",
     "format": "ini",
