@@ -859,6 +859,45 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/refs/heads/main/Trophy%20Eyes%20-%20Suicide%20Pact.zip",
     "preview_time": 51314,
     "preview_end_time": 88186
+  },
+  "batcountry": {
+    "title": "Bat Country",
+    "artist": "Avenged Sevenfold",
+    "album": "City of Evil",
+    "charter": "Harmonix, It's Only Connor",
+    "releaseYear": 2005,
+    "genre": "Metal",
+    "cover": "cityofevil.png",
+    "source": "rb2dlc",
+    "key": "C Major",
+    "bpm": 125,
+    "duration": "5m 17s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "doubleBass": "true",
+    "format": "ini",
+    "proVoxHarmonies": "1",
+    "difficulties": {
+      "drums": 7,
+      "lead": 6,
+      "bass": 5,
+      "vocals": 4,
+
+      "plastic-drums": 7,
+      "plastic-guitar": 7,
+      "plastic-bass": 5,
+      "pro-vocals": 5
+    },
+    
+    "createdAt": "2025-03-16T18:24:33Z",
+    "songlink": "https://song.link/us/i/65621021",
+    "previewUrl": "batcountry.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/745ef8420e99ec21281fc85cdc4381b81d5cfcad/Avenged%20Sevenfold%20-%20Bat%20Country.zip",
+    "preview_time": 39398,
+    "preview_end_time": 81670
   }
 }
 
