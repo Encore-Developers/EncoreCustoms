@@ -4,8 +4,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const AppConfig = {
     MODAL_TEXT_SIZE: 'medium'
   };
+
   const ASSET_BASE_URL = 'https://jaydenzkoci.github.io/EncoreCustoms';
-  
+
   // DOM Elements
   const elements = {
     modal: document.getElementById('trackModal'),
@@ -134,6 +135,108 @@ document.addEventListener('DOMContentLoaded', () => {
         element.style.fontSize = `${newSize}em`;
       }
     },
+  };
+
+  // temp spot for difficulty bar
+  const injectStyles = () => {
+    const style = document.createElement('style');
+    style.textContent = `
+      .modal-content {
+        position: relative;
+        overflow: hidden;
+      }
+      .modal-content.no-video::before {
+        content: '';
+        position: absolute;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background-image: var(--cover-url);
+        background-size: cover;
+        background-position: center;
+        filter: blur(42px);
+        transform: scale(1.2);
+        z-index: -2;
+        border-radius: 15px;
+      }
+      .modal-content.no-video.animate-bg::before {
+        animation: slow-pan 20s infinite alternate ease-in-out, fade-in-blur 0.5s ease-in-out;
+      }
+      .info-box {
+        padding: 15px;
+        border: 2px solid rgba(255, 255, 255, 0.2);
+        border-radius: 8px;
+        background-color: rgba(0, 0, 0, 0.2);
+        margin-top: 10px;
+      }
+      .difficulty-container-wrapper {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        width: 100%;
+        margin-top: 10px;
+      }
+      .difficulty-box {
+        flex: 1;
+        padding: 10px;
+        border-radius: 8px;
+        background-color: rgba(0, 0, 0, 0.2);
+        border: 2px solid rgba(255, 255, 255, 0.2);
+      }
+      .difficulty-box-title {
+        text-align: center;
+        font-weight: bold;
+        margin-bottom: 10px;
+        font-size: 1.1em;
+        color: white;
+      }
+      .difficulty-box-content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        min-height: 50px;
+      }
+      .difficulty {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 80px;
+        max-width: 90px;
+      }
+      .difficulty .instrument-image {
+        width: 30px;
+        height: 30px;
+        margin-bottom: 5px;
+      }
+      .difficulty .difficulty-bars {
+        display: flex;
+        gap: 2px;
+      }
+      .difficulty .difficulty-bar {
+        width: 6px;
+        height: 16px;
+        background-color: rgba(255, 255, 255, 0.15);
+        border-radius: 2px;
+      }
+      .difficulty .difficulty-bar span {
+          display: block;
+          width: 100%;
+          height: 100%;
+          border-radius: 2px;
+      }
+       .difficulty .difficulty-bar span.active {
+          background-color: #fff;
+          box-shadow: 0 0 1px #fff, 0 0 1px #fff; // change 1px to 4px for glow if needed later
+      }
+      @keyframes slow-pan {
+          from { background-position: 0% 50%; }
+          to { background-position: 100% 50%; }
+      }
+      @keyframes fade-in-blur {
+          from { opacity: 0; }
+          to { opacity: 1; }
+      }
+    `;
+    document.head.appendChild(style);
   };
 
   // YouTube Player
@@ -460,6 +563,8 @@ document.addEventListener('DOMContentLoaded', () => {
       const modalContent = elements.modal.querySelector('.modal-content');
       if (!modalContent) return;
 
+      modalContent.classList.remove('animate-bg');
+
       // Apply text size class from AppConfig
       modalContent.classList.remove('modal-text-small', 'modal-text-medium', 'modal-text-large');
       modalContent.classList.add(`modal-text-${AppConfig.MODAL_TEXT_SIZE}`);
@@ -501,7 +606,34 @@ document.addEventListener('DOMContentLoaded', () => {
       modalContent.style.maxWidth = utils.isMobile() ? '400px' : '500px';
 
       modalContent.querySelector('.modal-video')?.remove();
-      modalContent.classList.remove('no-video');
+
+      if (videoUrl) {
+        modalContent.classList.remove('no-video');
+        const videoElement = document.createElement('video');
+        videoElement.classList.add('modal-video');
+        videoElement.autoplay = true;
+        videoElement.muted = true;
+        videoElement.loop = true;
+        videoElement.innerHTML = `<source src="${ASSET_BASE_URL}/assets/preview/${videoUrl}" type="video/mp4">`;
+        videoElement.style.objectFit = 'cover';
+        videoElement.style.objectPosition = `center ${positionPercent}%`;
+        videoElement.style.transform = `scale(${videoZoom || 1})`;
+        modalContent.insertBefore(videoElement, modalContent.firstChild);
+        videoElement.onerror = () => {
+          videoElement.remove();
+          modalContent.classList.add('no-video');
+          modalContent.style.setProperty('--cover-url', `url(${ASSET_BASE_URL}/assets/covers/${cover})`);
+          void modalContent.offsetWidth;
+          modalContent.classList.add('animate-bg');
+        };
+        videoElement.onloadeddata = () => videoElement.classList.add('loaded');
+      } else {
+        modalContent.classList.add('no-video');
+        modalContent.style.setProperty('--cover-url', `url(${ASSET_BASE_URL}/assets/covers/${cover})`);
+        void modalContent.offsetWidth;
+        modalContent.classList.add('animate-bg');
+      }
+
 
       modalModule.stopGlowInterval();
       audio.removeEventListener('play', modalModule.handleAudioPlay);
@@ -575,24 +707,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (previewUrl) audioModule.playPreview(track);
 
-      if (videoUrl) {
-        const videoElement = document.createElement('video');
-        videoElement.classList.add('modal-video');
-        videoElement.autoplay = true;
-        videoElement.muted = true;
-        videoElement.loop = true;
-        videoElement.innerHTML = `<source src="${ASSET_BASE_URL}/assets/preview/${videoUrl}" type="video/mp4">`;
-        videoElement.style.objectFit = 'cover';
-        videoElement.style.objectPosition = `center ${positionPercent}%`;
-        videoElement.style.transform = `scale(${videoZoom || 1})`;
-        modalContent.insertBefore(videoElement, modalContent.firstChild);
-        videoElement.onerror = () => {
-          videoElement.remove();
-          modalContent.classList.add('no-video');
-        };
-        videoElement.onloadeddata = () => videoElement.classList.add('loaded');
-      }
-
       const modalCover = elements.modal.querySelector('#modalCover');
       const modalTitle = elements.modal.querySelector('#modalTitle');
       const modalArtist = elements.modal.querySelector('#modalArtist');
@@ -613,12 +727,16 @@ document.addEventListener('DOMContentLoaded', () => {
         modalDetails.className = 'modal-details-left';
         // Conditionally render "Last Updated"
         modalDetails.innerHTML = `
-            <p><strong>Genre:</strong> ${genre || 'N/A'}</p>
-            <p><strong>Created At:</strong> ${new Date(createdAt).toLocaleString()}</p>
-            ${lastFeatured ? `<p><strong>Last Updated:</strong> ${new Date(lastFeatured).toLocaleString()}</p>` : ''}
+            <div class="info-box">
+                <p><strong>Genre:</strong> ${genre || 'N/A'}</p>
+                <p><strong>Created At:</strong> ${new Date(createdAt).toLocaleString()}</p>
+                ${lastFeatured ? `<p><strong>Last Updated:</strong> ${new Date(lastFeatured).toLocaleString()}</p>` : ''}
+            </div>
         `;
       }
-      if (modalDifficulties) trackModule.generateDifficultyBars(difficulties, modalDifficulties);
+      if (modalDifficulties) {
+        trackModule.generateDifficultyBars(difficulties, modalDifficulties);
+      }
 
       let infoPopup = elements.modal.querySelector('.modal-info-popup');
       if (!infoPopup) {
@@ -691,17 +809,20 @@ document.addEventListener('DOMContentLoaded', () => {
       if (nextButton) nextButton.style.display = state.currentTrackIndex < state.currentFilteredTracks.length - 1 ? 'block' : 'none';
 
       if (elements.songlinkButton) {
-        elements.songlinkButton.disabled = !songlink;
-        elements.songlinkButton.onclick = () => {
-          if (songlink) {
-            window.open(songlink, '_blank');
-          }
-        };
+        if (songlink) {
+            elements.songlinkButton.style.display = 'block';
+            elements.songlinkButton.innerHTML = `<img src="${ASSET_BASE_URL}/assets/images/songlink.png" alt="Open on SongLink" style="height: 30px; width: auto; border: none; background: transparent;">`;
+            elements.songlinkButton.onclick = () => {
+                window.open(songlink, '_blank');
+            };
+        } else {
+            elements.songlinkButton.style.display = 'none';
+        }
       }
 
       if (elements.videoMenuButton) {
         const hasYouTubeLinks = youtubeLinks && Object.values(youtubeLinks).some((url) => url?.trim());
-        elements.videoMenuButton.disabled = !hasYouTubeLinks;
+        elements.videoMenuButton.style.display = hasYouTubeLinks ? 'block' : 'none';
       }
 
       const menuItems = elements.videoMenu?.querySelectorAll('li') || [];
@@ -1085,41 +1206,92 @@ document.addEventListener('DOMContentLoaded', () => {
         console.warn('Difficulty container or data not found.');
         return;
       }
-      container.innerHTML = '';
-      const maxBars = 7;
+      container.innerHTML = ''; 
 
-      const instrumentConfig = {
+      const padInstruments = {
+        'vocals': 'vocals.png',
         'lead': 'lead.png',
-        'plastic-guitar': 'plastic-guitar.png',
         'drums': 'drums.png',
-        'plastic-drums': 'plastic-drums.png',
         'bass': 'bass.png',
-        'plastic-bass': 'plastic-bass.png',
-        'vox': 'vox.png',
-        'keys': 'keys.png',
-        'pro-keys': 'pro-keys.png'
+        'keys': 'keys.png'
       };
 
-      for (const instrument in instrumentConfig) {
-        if (Object.prototype.hasOwnProperty.call(difficulties, instrument) && difficulties[instrument] !== -1) {
-          const level = difficulties[instrument];
-          const imageName = instrumentConfig[instrument];
+      const proInstruments = {
+        'pro-vocals': 'vox.png',
+        'plastic-guitar': 'plastic-guitar.png',
+        'plastic-drums': 'plastic-drums.png',
+        'plastic-bass': 'plastic-bass.png',
+        'pro-keys': 'pro-keys.png',
+        'plastic-keys': 'plastic-keys.png'
+      };
 
-          const difficultyElement = document.createElement('div');
-          difficultyElement.classList.add('difficulty');
+      const createDifficultyElement = (instrument, level, imageName) => {
+        const maxBars = 7;
+        const difficultyElement = document.createElement('div');
+        difficultyElement.classList.add('difficulty');
 
-          let barsHTML = '';
-          for (let i = 1; i <= maxBars; i++) {
-            barsHTML += `<div class="difficulty-bar"><span class="${i <= level + 1 ? 'active' : ''}"></span></div>`;
-          }
+        let barsHTML = '';
+        for (let i = 1; i <= maxBars; i++) {
+          barsHTML += `<div class="difficulty-bar"><span class="${i <= level + 1 ? 'active' : ''}"></span></div>`;
+        }
 
-          difficultyElement.innerHTML = `
+        difficultyElement.innerHTML = `
             <img src="${ASSET_BASE_URL}/assets/images/instruments/${imageName}" alt="${instrument}" class="instrument-image">
             <div class="difficulty-bars">${barsHTML}</div>
-          `;
+        `;
+        return difficultyElement;
+      };
 
-          container.appendChild(difficultyElement);
+      const wrapper = document.createElement('div');
+      wrapper.className = 'difficulty-container-wrapper';
+      const padBox = document.createElement('div');
+      padBox.className = 'difficulty-box';
+      padBox.innerHTML = '<div class="difficulty-box-title">Pad</div>';
+      const padBoxContent = document.createElement('div');
+      padBoxContent.className = 'difficulty-box-content';
+      padBox.appendChild(padBoxContent);
+      wrapper.appendChild(padBox);
+      const proBox = document.createElement('div');
+      proBox.className = 'difficulty-box';
+      proBox.innerHTML = '<div class="difficulty-box-title">Pro</div>';
+      const proBoxContent = document.createElement('div');
+      proBoxContent.className = 'difficulty-box-content';
+      proBox.appendChild(proBoxContent);
+      wrapper.appendChild(proBox);
+      const instrumentOrder = ['vocals', 'lead', 'bass', 'drums', 'keys', 'pro-vocals', 'plastic-guitar', 'plastic-bass', 'plastic-drums', 'pro-keys', 'plastic-keys'];
+      let hasAnyInstruments = false;
+      instrumentOrder.forEach(instrument => {
+        const difficultyKey = instrument === 'vocals' && !difficulties.vocals ? 'vox' : instrument;
+        if (Object.prototype.hasOwnProperty.call(difficulties, difficultyKey) && difficulties[difficultyKey] !== -1) {
+          hasAnyInstruments = true;
+          const level = difficulties[difficultyKey];
+          if (padInstruments[instrument]) {
+            padBoxContent.appendChild(createDifficultyElement(instrument, level, padInstruments[instrument]));
+          } else if (proInstruments[instrument]) {
+            proBoxContent.appendChild(createDifficultyElement(instrument, level, proInstruments[instrument]));
+          }
         }
+      });
+      const maxInstrumentsPerBox = 5;
+      const padCount = padBoxContent.children.length;
+      const proCount = proBoxContent.children.length;
+
+      for (let i = padCount; i < maxInstrumentsPerBox; i++) {
+        const placeholder = document.createElement('div');
+        placeholder.classList.add('difficulty');
+        placeholder.style.visibility = 'hidden';
+        padBoxContent.appendChild(placeholder);
+      }
+      
+      for (let i = proCount; i < maxInstrumentsPerBox; i++) {
+        const placeholder = document.createElement('div');
+        placeholder.classList.add('difficulty');
+        placeholder.style.visibility = 'hidden';
+        proBoxContent.appendChild(placeholder);
+      }
+
+      if (hasAnyInstruments) {
+        container.appendChild(wrapper);
       }
     },
     generateLabels: (track) => {
@@ -1359,6 +1531,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Initialization
   const init = () => {
+    injectStyles();
     youtubeModule.init();
     settingsModule.handleSettingsMenuClick();
     eventModule.init();
