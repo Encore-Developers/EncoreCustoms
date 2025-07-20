@@ -2,7 +2,9 @@
 // All credit to fnfestival.co for the base code; extended with additional features.
 document.addEventListener('DOMContentLoaded', () => {
   const AppConfig = {
-    MODAL_TEXT_SIZE: 'medium'
+    MODAL_TEXT_SIZE: 'medium',
+    SONGLINK_ICON_HEIGHT: '35px',
+    SONGLINK_ICON_WIDTH: 'auto'
   };
 
   const ASSET_BASE_URL = 'https://jaydenzkoci.github.io/EncoreCustoms';
@@ -127,7 +129,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!element) return;
       const content = text || '';
       element.textContent = content;
-      element.style.fontSize = ''; // Reset font size first
+      element.style.fontSize = '';
 
       if (content.length > threshold) {
         const overflow = content.length - threshold;
@@ -137,7 +139,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
   };
 
-  // temp spot for difficulty bar
+  // Style Injection
   const injectStyles = () => {
     const style = document.createElement('style');
     style.textContent = `
@@ -226,6 +228,9 @@ document.addEventListener('DOMContentLoaded', () => {
        .difficulty .difficulty-bar span.active {
           background-color: #fff;
           box-shadow: 0 0 1px #fff, 0 0 1px #fff; // change 1px to 4px for glow if needed later
+      }
+      .jam-track, .modal-prev, .modal-next, .modal-close, #songlinkButton, #videoMenuButton, #settingsButton, .settings-menu li, .video-menu li, #downloadButton, #muteButton {
+        cursor: pointer;
       }
       @keyframes slow-pan {
           from { background-position: 0% 50%; }
@@ -562,10 +567,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const positionPercent = videoPosition ?? 50;
       const modalContent = elements.modal.querySelector('.modal-content');
       if (!modalContent) return;
-
       modalContent.classList.remove('animate-bg');
-
-      // Apply text size class from AppConfig
       modalContent.classList.remove('modal-text-small', 'modal-text-medium', 'modal-text-large');
       modalContent.classList.add(`modal-text-${AppConfig.MODAL_TEXT_SIZE}`);
 
@@ -811,7 +813,9 @@ document.addEventListener('DOMContentLoaded', () => {
       if (elements.songlinkButton) {
         if (songlink) {
             elements.songlinkButton.style.display = 'block';
-            elements.songlinkButton.innerHTML = `<img src="${ASSET_BASE_URL}/assets/images/songlink.png" alt="Open on SongLink" style="height: 30px; width: auto; border: none; background: transparent;">`;
+            elements.songlinkButton.style.backgroundColor = 'transparent';
+            elements.songlinkButton.style.border = 'none';
+            elements.songlinkButton.innerHTML = `<img src="${ASSET_BASE_URL}/assets/images/songlink.png" alt="Open on SongLink" style="height: ${AppConfig.SONGLINK_ICON_HEIGHT}; width: ${AppConfig.SONGLINK_ICON_WIDTH};">`;
             elements.songlinkButton.onclick = () => {
                 window.open(songlink, '_blank');
             };
@@ -1206,7 +1210,7 @@ document.addEventListener('DOMContentLoaded', () => {
         console.warn('Difficulty container or data not found.');
         return;
       }
-      container.innerHTML = ''; 
+      container.innerHTML = '';
 
       const padInstruments = {
         'vocals': 'vocals.png',
@@ -1232,7 +1236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let barsHTML = '';
         for (let i = 1; i <= maxBars; i++) {
-          barsHTML += `<div class="difficulty-bar"><span class="${i <= level + 1 ? 'active' : ''}"></span></div>`;
+          barsHTML += `<div class="difficulty-bar"><span class="${i <= level ? 'active' : ''}"></span></div>`;
         }
 
         difficultyElement.innerHTML = `
