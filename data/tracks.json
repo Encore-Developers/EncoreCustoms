@@ -898,6 +898,35 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/745ef8420e99ec21281fc85cdc4381b81d5cfcad/Avenged%20Sevenfold%20-%20Bat%20Country.zip",
     "preview_time": 39398,
     "preview_end_time": 81670
+  },
+  "bisoncharge": {
+    "title": "Bison Charge",
+    "artist": "Umeboshi Chazuke",
+    "charter": "Equinox",
+    "releaseYear": 2017,
+    "genre": "EDM",
+    "cover": "blank-cover.png",
+    "source": "custom",
+    "loading_phrase": "This song is in OSU.",
+    "key": "G♭ Minor",
+    "bpm": 122,
+    "duration": "1m 52s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "format": "json",
+    "difficulties": {
+      "lead": 7,
+      "plastic-guitar": 7
+    },
+    
+    "createdAt": "2025-07-20T15:55:44Z",
+    "previewUrl": "bisoncharge.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/e2375da7575dfda5c2a5f56024aad705d978192f/Umeboshi%20Chazuke%20-%20Bison%20Charge.zip",
+    "preview_time": 90000,
+    "preview_end_time": 11000
   }
 }
 
