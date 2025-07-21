@@ -651,6 +651,7 @@
     "ageRating": "Teen",
     "is_verified": "false",
     "is_cover": "false",
+    "currentversion": 1,
 
     "format": "ini",
     "proVoxHarmonies": "2",
