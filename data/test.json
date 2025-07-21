@@ -50,6 +50,7 @@
     "source": "rb3dlc",
     "releaseYear": 1997,
     "format": "json",
+    "currentversion": 1,
     "genre": "Metal",
     "cover": "myownsummer.png",
     "bpm": 72,
