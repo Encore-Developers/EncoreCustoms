@@ -1,0 +1,904 @@
+{
+    "jetpackjoyridetheme": {
+    "title": "Jetpack Joyride Main Theme",
+    "artist": "Halfbrick",
+    "album": "Jetpack Joyride",
+    "charter": "LysiX",
+    "source": "custom",
+    "releaseYear": 2011,
+    "genre": "Jazz EDM",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+    "cover": "jetpackjoyridetheme.png",
+    "bpm": 123,
+    "duration": "2m 17s",
+    "key": "A♭ Major",
+    "format": "ini",
+    "difficulties": {
+      "vocals": -1,
+      "lead": 5,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": 4,
+      "plastic-drums": 6,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2025-03-16T22:20:17.000Z",
+    "songlink": "https://song.link/s/5TVBHi9mXqELfrGe9BreOG",
+    "previewUrl": "jetpackjoyridetheme.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Jetpack%20Joyride%20Main%20Theme.zip",
+    "preview_time": 50794,
+    "preview_end_time": 75000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+ },
+    "myownsummer": {
+    "title": "My Own Summer (Shove It)",
+    "artist": "Deftones",
+    "album": "Around The Fur",
+    "charter": "Harmonix, LysiX",
+    "source": "rb3dlc",
+    "releaseYear": 1997,
+    "format": "json",
+    "genre": "Metal",
+    "cover": "myownsummer.png",
+    "bpm": 72,
+    "ageRating": "Teen",
+    "is_verified": "true",
+    "is_cover": "false",
+    "duration": "3m 39s",
+    "key": "D♭ Major",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 4,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": 4,
+      "plastic-drums": 2,
+      "plastic-guitar": 2
+    },
+    "createdAt": "2024-07-13T17:46:25.000Z",
+    "songlink": "https://song.link/s/1158ckiB5S4cpsdYHDB9IF",
+    "previewUrl": "myownsummer.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Deftones%20-%20My%20Own%20Summer.zip",
+    "preview_time": 82000,
+    "preview_end_time": 104000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+  },
+  "notaskinformuch": {
+    "title": "not askin 4 much",
+    "format": "json",
+    "artist": "Frizk",
+    "album": "not askin 4 much",
+    "charter": "tposejank",
+    "releaseYear": 2024,
+    "genre": "Chill",
+    "source": "custom",
+    "cover": "notaskinformuch.png",
+    "loading_phrase": "im not askin for much but i want u",
+    "bpm": 127,
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+    "duration": "2m 13s",
+    "key": "G Major",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 5,
+      "bass": 2,
+      "drums": 5,
+      "plastic-bass": 2,
+      "plastic-drums": 5,
+      "plastic-guitar": 5
+    },
+    "createdAt": "2024-07-03T04:56:57.000Z",
+    "songlink": "https://song.link/us/i/1743981110",
+    "previewUrl": "notaskinformuch.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Frizk%20-%20not%20askin%204%20much.zip",
+    "preview_time": 67200,
+    "preview_end_time": 90000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+ },
+ "untitledchordsthing": {
+    "title": "Untitled Chords Thing",
+    "format": "json",
+    "currentVersion": "1",
+    "artist": "Synthfox Soundworks",
+    "charter": "Narrik Synthfox",
+    "genre": "Electronic",
+    "releaseYear": 2024,
+    "cover": "blank-cover.png",
+    "source": "encore",
+    "loading_phrase": "Woah it's an encore in here!",
+    "key": "B Minor",
+    "bpm": 150,
+    "duration": "1m 53s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+    "difficulties": {
+      "vocals": 3,
+      "keys": 4,
+      "bass": 3,
+      "drums": 4
+    },
+    "createdAt": "2024-02-29T20:43:39.000Z",
+    "previewUrl": "untitledchordsthing.mp3",
+    "preview_time": 16000,
+    "preview_end_time": 41060,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+ },
+ "godzilla": {
+    "title": "Godzilla (feat. Juice WRLD)",
+    "format": "json",
+    "artist": "Eminem",
+    "album": "Music to Be Murdered By",
+    "charter": "Equinox",
+    "releaseYear": 2020,
+    "genre": "Rap",
+    "cover": "musictobemurderedby.png",
+    "source": "custom",
+    "key": "B♭ Minor",
+    "bpm": 166,
+    "duration": "3m 40s",
+    "ageRating": "Mature",
+    "is_verified": "true",
+    "is_cover": "false",
+    "difficulties": {
+      "vocals": 7,
+      "lead": 3,
+      "bass": 2,
+      "drums": 4
+    },
+    "createdAt": "2024-06-26T04:41:13.000Z",
+    "songlink": "https://song.link/us/i/1495267448",
+    "previewUrl": "godzilla.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Eminem,%20Juice%20WRLD%20-%20Godzilla.zip",
+    "preview_time": 40480,
+    "preview_end_time": 63000,
+    "modalShadowColors": {
+      "default": {
+        "color1": "",
+        "color2": ""  
+      },
+      "hover": {
+        "color1": "",
+        "color2": "" 
+      }
+    }
+  },
+  "threesandsevens": {
+    "title": "3's & 7's",
+    "format": "json",
+    "artist": "Queens of the Stone Age",
+    "album": "Era Vulgaris",
+    "charter": "Harmonix, solamint",
+    "releaseYear": 2007,
+    "genre": "Alternative",
+    "cover": "era-vulgaris.png",
+    "source": "rb2dlc",
+    "loading_phrase": "A classic from one of the most well known Guitar Hero games",
+    "key": "B♭ Minor",
+    "bpm": 133,
+    "duration": "3m 37s",
+    "ageRating": "Teen",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "difficulties": {
+      "vocals": 2,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+
+      "plastic-bass": 4,
+      "plastic-drums": 5,
+      "plastic-guitar": 4
+    },
+    
+    "createdAt": "2024-06-30T23:04:00.000Z",
+    "songlink": "https://song.link/us/i/1440660660",
+    "previewUrl": "threesandsevens.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Queens%20of%20the%20Stone%20Age%20-%203's%20&%207's.zip",
+    "preview_time": 92200,
+    "preview_end_time": 139000
+  },
+  "dieinafire": {
+    "title": "Die In a Fire (feat. EileMonty & Orko)",
+    "artist": "The Living Tombstone",
+    "format": "json",
+    "charter": "Equinox",
+    "releaseYear": 2015,
+    "genre": "Pop",
+    "cover": "dieinafire.png",
+    "source": "custom",
+    "key": "E♭ Minor",
+    "bpm": 110,
+    "duration": "3m 09s",
+    "ageRating": "Teen",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "difficulties": {
+      "drums": 4,
+      "lead": 4,
+      "bass": 3,
+      "vocals": 3
+    },
+    
+    "createdAt": "2024-06-26T05:15:37.000Z",
+    "songlink": "https://song.link/us/i/989232818",
+    "previewUrl": "dieinafire.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/The%20Living%20Tombstone%20-%20Die%20In%20a%20Fire.zip",
+    "preview_time": 37394,
+    "preview_end_time": 65454
+  },
+  "core": {
+    "title": "CORE",
+    "format": "ini",
+    "artist": "Toby Fox",
+    "album": "UNDERTALE Soundtrack",
+    "charter": "foodcake",
+    "releaseYear": 2015,
+    "genre": "Electronic",
+    "cover": "undertale-ost.png",
+    "source": "custom",
+    "key": "D♭ Minor",
+    "bpm": 140,
+    "duration": "2m 53s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "proVoxHarmonies": "2",
+    "difficulties": {
+      "drums": 3,
+      "lead": 4,
+      "bass": 4,
+      "keys": 4,
+      "vocals": 2,
+
+      "plastic-drums": 3,
+      "plastic-guitar": 4,
+      "plastic-bass": 4,
+      "plastic-keys": 4,
+      "pro-vocals": 2,
+
+      "real-keys": 4
+    },
+    
+    "createdAt": "2025-01-09T00:16:57Z",
+    "songlink": "https://song.link/i/1528217860",
+    "previewUrl": "core.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Toby%20Fox%20-%20CORE.zip",
+    "preview_time": 24000,
+    "preview_end_time": 54000
+  },
+  "infernoplex": {
+    "title": "Infernoplex",
+    "artist": "Dimrain47",
+    "format": "json",
+    "album": "The Dimrain47 Collection",
+    "charter": "LysiX",
+    "releaseYear": 2006,
+    "genre": "Techno",
+    "cover": "dimrain47-collection.png",
+    "source": "custom",
+    "key": "C Minor",
+    "bpm": 175,
+    "duration": "3m 50s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "difficulties": {
+      "drums": 7,
+      "lead": 7,
+      "bass": 6,
+      "vocals": 5,
+
+      "plastic-drums": 7,
+      "plastic-guitar": 7,
+      "plastic-bass": 6
+    },
+    
+    "createdAt": "2024-09-29T01:10:27Z",
+    "songlink": "https://song.link/us/i/1491197688",
+    "previewUrl": "infernoplex.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20Infernoplex.zip",
+    "preview_time": 37309,
+    "preview_end_time": 63366
+  },
+  "bringitonrockversion": {
+    "title": "Bring it On (Rock Ver.)",
+    "artist": "NyxTheShield",
+    "format": "json",
+    "album": "Glitchtale OST",
+    "charter": "LysiX",
+    "releaseYear": 2018,
+    "genre": "Rock",
+    "cover": "bringitonrockversion.png",
+    "source": "custom",
+    "loading_phrase": "*In the room you find old plastic instruments connected to a game console.",
+    "key": "A♭ Minor",
+    "bpm": 180,
+    "duration": "1m 53s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "doubleBass": "true",
+    "difficulties": {
+      "drums": 6,
+      "lead": 5,
+      "bass": 4,
+      "vocals": 5,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 6,
+      "plastic-bass": 4
+    },
+    
+    "createdAt": "2024-09-14T21:12:14.000Z",
+    "songlink": "https://www.youtube.com/watch?v=4ygaEqHqdsI",
+    "previewUrl": "bringitonrockversion.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/NyxTheShield%20-%20Bring%20it%20On%20(Rock%20Ver.).zip",
+    "preview_time": 55999,
+    "preview_end_time": 87999
+  },
+  "skybasezoneCSFport": {
+    "title": "Sky Base Zone (C64)",
+    "format": "json",
+    "artist": "Encore (Made Famous By SEGA)",
+    "coverArist": "Encore",
+    "album": "Sonic the Hedgehog for C64",
+    "charter": "LysiX",
+    "releaseYear": "1991 (2021)",
+    "newYear": 2021,
+    "genre": "Chiptune",
+    "cover": "sonic1991.png",
+    "source": "custom",
+    "key": "D Minor",
+    "bpm": 150,
+    "duration": "1m 31s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "true",
+
+    "difficulties": {
+      "lead": 6,
+      "bass": 5,
+      "vocals": 5
+    },
+    
+    "createdAt": "2024-07-13T03:09:36Z",
+    "previewUrl": "skybasezoneCSFport.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/SEGA%20(Yuzo%20Koshiro),%20Encore%20-%20Sky%20Base%20Zone%20(C64).zip",
+    "preview_time": 3000,
+    "preview_end_time": 34997
+  },
+  "stardustspeedwaypast": {
+    "title": "Stardust Speedway Zone (Past)",
+    "artist": "SEGA",
+    "album": "Sonic CD",
+    "format": "json",
+    "charter": "LysiX",
+    "releaseYear": 1993,
+    "genre": "Chiptune",
+    "cover": "sonicCD.png",
+    "source": "custom",
+    "key": "A♭ Minor",
+    "bpm": 120,
+    "duration": "2m 40s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "difficulties": {
+      "drums": 5,
+      "lead": 7,
+      "bass": 6,
+      "vocals": 4,
+
+      "plastic-drums": 6,
+      "plastic-guitar": 7,
+      "plastic-bass": 6
+    },
+    
+    "createdAt": "2024-07-13T04:42:12Z",
+    "previewUrl": "stardustspeedwaypast.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/SEGA%20-%20Stardust%20Speedway%20Zone%20(Past).zip",
+    "preview_time": 68270,
+    "preview_end_time": 100385
+  },
+  "isolation": {
+    "title": "Isolation",
+    "artist": "Nighthawk22",
+    "album": "Darkmatter",
+    "charter": "LysiX",
+    "releaseYear": 2007,
+    "genre": "Electronic",
+    "format": "json",
+    "cover": "darkmatter.png",
+    "source": "custom",
+    "key": "D Minor",
+    "bpm": 100,
+    "duration": "3m 25s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "difficulties": {
+      "drums": 7,
+      "lead": 7,
+      "bass": 3,
+      "vocals": 7
+    },
+    
+    "createdAt": "2024-07-13T03:38:25Z",
+    "songlink": "https://song.link/us/i/1465427459",
+    "previewUrl": "isolation.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Nighthawk22%20-%20Isolation.zip",
+    "preview_time": 49830,
+    "preview_end_time": 78630
+  },
+  "thefallingmysts": {
+    "title": "The Falling Mysts",
+    "artist": "Dimrain47",
+    "format": "json",
+    "album": "The Dimrain47 Collection",
+    "charter": "LysiX",
+    "releaseYear": 2012,
+    "genre": "Techno",
+    "cover": "dimrain47-collection.png",
+    "source": "custom",
+    "key": "D♭ Minor",
+    "bpm": 132,
+    "duration": "4m 58s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "difficulties": {
+      "drums": 6,
+      "lead": 7,
+      "bass": 2,
+      "vocals": 5
+    },
+    
+    "createdAt": "2024-07-03T10:25:06.000Z",
+    "songlink": "https://song.link/us/i/1491197700",
+    "previewUrl": "thefallingmysts.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20The%20Falling%20Mysts.zip",
+    "preview_time": 33727,
+    "preview_end_time": 72818
+  },
+  "latenighttalking": {
+    "title": "Late Night Talking",
+    "artist": "Harry Styles",
+    "format": "json",
+    "album": "Harry's House",
+    "charter": "Broque",
+    "releaseYear": 2022,
+    "genre": "Pop",
+    "cover": "harryshouse.png",
+    "source": "custom",
+    "key": "B♭ Major",
+    "bpm": 115,
+    "duration": "2m 59s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+
+    "difficulties": {
+      "drums": 3,
+      "lead": 2,
+      "bass": 1,
+      "vocals": 3
+    },
+    
+    "createdAt": "2024-07-16T11:27:11Z",
+    "songlink": "https://song.link/us/i/1615585006",
+    "previewUrl": "latenighttalking.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Harry%20Styles%20-%20Late%20Night%20Talking.zip",
+    "preview_time": 45913,
+    "preview_end_time": 79304
+  },
+  "ikeepforgettin": {
+    "title": "I Keep Forgettin' (Every Time You're Near)",
+    "artist": "Michael McDonald",
+    "album": "If That's What It Takes",
+    "charter": "Broque",
+    "releaseYear": 1982,
+    "genre": "R&B",
+    "cover": "ifthatswhatittakes.png",
+    "source": "custom",
+    "key": "E♭ Major",
+    "bpm": 95,
+    "duration": "3m 46s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "format": "json",
+    "difficulties": {
+      "drums": 4,
+      "lead": 4,
+      "bass": 4,
+      "vocals": 3
+    },
+    
+    "createdAt": "2024-07-12T22:13:00Z",
+    "songlink": "https://song.link/us/i/358568310",
+    "previewUrl": "ikeepforgettin.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Michael%20McDonald%20-%20I%20Keep%20Forgettin'%20(Every%20Time%20You're%20Near).zip",
+    "preview_time": 45012,
+    "preview_end_time": 80484
+  },
+  "rollingontheduck": {
+    "title": "Rolling On the Duck",
+    "artist": "NieN",
+    "album": "DJMAX Online",
+    "charter": "Eezku",
+    "releaseYear": 2005,
+    "genre": "Hardcore",
+    "cover": "rollingontheduck.png",
+    "source": "custom",
+    "loading_phrase": "those who roll on the duck",
+    "key": "D Minor",
+    "bpm": 180,
+    "duration": "2m 20s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "format": "json",
+    "difficulties": {
+      "drums": 6,
+      "lead": 7,
+      "vocals": 2,
+      "plastic-guitar": 7
+    },
+    
+    "createdAt": "2025-06-15T08:20:00.000Z",
+    "previewUrl": "rollingontheduck.mp3",
+    "download": "https://raw.githubusercontent.com/JaydenzKoci/EncoreCustoms/main/assets/charts/Rolling%20On%20the%20Duck.zip",
+    "preview_time": 1390,
+    "preview_end_time": 40000
+  },
+  "becauseitsmidnite": {
+    "title": "Because, It's Midnite",
+    "artist": "Limozeen",
+    "album": "Strong Bad Sings and Other Type Hits",
+    "charter": "Harmonix, Cameron44251",
+    "releaseYear": 2003,
+    "genre": "Metal",
+    "cover": "strongbadandothertypebeats.png",
+    "source": "gh80s",
+    "key": "D Minor",
+    "bpm": 148,
+    "duration": "2m 14s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "lead": 7,
+      "bass": 4,
+      "plastic-guitar": 7,
+      "plastic-bass": 4
+    },
+    
+    "createdAt": "2024-11-27T07:42:42Z",
+    "songlink": "https://song.link/us/i/1479443799",
+    "previewUrl": "becauseitsmidnite.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/9daffde2aaa9e05683e5722d5807dec8bad0d61c/Limozeen%20-%20Because%2C%20It's%20Midnite.zip",
+    "preview_time": 29298,
+    "preview_end_time": 55632
+  },
+  "sugarcoatedtwoface": {
+    "title": "Sugar-Coated Two-Face (feat. Asterian)",
+    "artist": "Saturn Candies",
+    "charter": "It's Only Connor",
+    "releaseYear": 2024,
+    "genre": "Alternative",
+    "cover": "sctf.png",
+    "source": "custom",
+    "loading_phrase": "\"[...]This song is about having separated/divorced parents, each of them try to make themselves look like the better one, but they're both flawed.\" - Saturn Candies",
+    "key": "A♭ minor",
+    "bpm": 115,
+    "duration": "4m 43s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "format": "ini",
+    "proVoxHarmonies": "2",
+    "difficulties": {
+      "drums": 4,
+      "lead": 4,
+      "bass": 1,
+      "keys": 4,
+      "vocals": 4,
+
+      "plastic-drums": 3,
+      "plastic-guitar": 4,
+      "plastic-bass": 1,
+      "plastic-keys": 4,
+      "pro-vocals": 5
+    },
+    
+    "createdAt": "2025-03-25T07:28:10Z",
+    "songlink": "https://song.link/us/i/1764767919",
+    "previewUrl": "sugarcoatedtwoface.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/c3c83e10a791ed16b2efcedcee72f32af95f29f6/Saturn%20Candies%20-%20Sugar-Coated%20Two-Face.zip",
+    "preview_time": 96000,
+    "preview_end_time": 121043
+  },
+  "teardrinker": {
+    "title": "Teardrinker",
+    "artist": "Mastodon",
+    "album": "Hushed and Grim",
+    "charter": "Equinox",
+    "releaseYear": 2021,
+    "genre": "Metal",
+    "cover": "hushedandgrim.png",
+    "source": "custom",
+    "loading_phrase": "The drummer Brann Dailor sings all parts on this song other than the bridge and prechorus.",
+    "key": "F Major",
+    "bpm": 127,
+    "duration": "5m 23s",
+    "ageRating": "Teen",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 5,
+      "lead": 6,
+      "bass": 3,
+      "vocals": 2,
+
+      "plastic-drums": 4,
+      "plastic-guitar": 6,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2025-02-02T04:09:51Z",
+    "songlink": "https://song.link/us/i/1584124433",
+    "previewUrl": "teardrinker.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Mastodon%20-%20Teardrinker.zip",
+    "preview_time": 110000,
+    "preview_end_time": 155000
+  },
+  "seashantytwo": {
+    "title": "Sea Shanty 2",
+    "artist": "Jagex Audio Team",
+    "album": "RuneScape: (Original Soundtrack Classics)",
+    "charter": "foodcake",
+    "releaseYear": 2018,
+    "genre": "Novelty",
+    "cover": "runescapeostclassics.png",
+    "source": "custom",
+    "key": "A Major",
+    "bpm": 100,
+    "duration": "2m 14s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+
+    "format": "ini",
+    "difficulties": {
+      "drums": 2,
+      "lead": 2,
+      "bass": 1,
+      "keys": 2,
+      "vocals": 1,
+
+      "plastic-drums": 2,
+      "plastic-guitar": 2,
+      "plastic-bass": 1,
+      "plastic-keys": 2,
+      "real-keys": 2
+    },
+    
+    "createdAt": "2025-01-11T12:39:34Z",
+    "songlink": "https://song.link/us/i/1745118621",
+    "previewUrl": "seashantytwo.mp3",
+    "download": "https://raw.githubusercontent.com/kimicake/songs/seashanty2/Jagex%20Audio%20Team%20-%20Sea%20Shanty%202.zip",
+    "preview_time": 14400,
+    "preview_end_time": 43200
+  },
+  "operationevolution": {
+    "title": "Operation: Evolution",
+    "artist": "Dimrain47",
+    "album": "The Dimrain47 Collection",
+    "charter": "LysiX",
+    "releaseYear": 2007,
+    "genre": "Techno",
+    "cover": "dimrain47-collection.png",
+    "source": "custom",
+    "key": "G Minor",
+    "bpm": 165,
+    "duration": "5m 8s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "doubleBass": "true",
+    "format": "ini",
+    "difficulties": {
+      "drums": 7,
+      "lead": 7,
+      "bass": 3,
+      "keys": 7,
+
+      "plastic-drums": 7,
+      "plastic-guitar": 7,
+      "plastic-rhythm": 7,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2025-04-23T02:42:12Z",
+    "songlink": "https://song.link/us/i/1491197695",
+    "previewUrl": "operationevolution.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Dimrain47%20-%20Operation%20Evolution.zip",
+    "preview_time": 46000,
+    "preview_end_time": 67000
+  },
+  "blueeyedboy": {
+    "title": "Blue Eyed Boy",
+    "artist": "Trophy Eyes",
+    "album": "Suicide and Sunshine",
+    "charter": "Equinox",
+    "releaseYear": 2023,
+    "genre": "Pop Punk",
+    "cover": "suicideandsunshine.png",
+    "source": "custom",
+    "loading_phrase": "The song tells a story of a friend the lead singer had and the feeling of dread to see someone suffering.",
+    "key": "D♭ Major",
+    "bpm": 170,
+    "duration": "3m 0s",
+    "ageRating": "Teen",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 6,
+      "lead": 4,
+      "bass": 4,
+      "vocals": 3,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 3,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2025-07-14T15:41:14Z",
+    "songlink": "https://song.link/us/i/1675410960",
+    "previewUrl": "blueeyedboy.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/d9771118b26039f416651b2e11ae95ce146da1e7/Trophy%20Eyes%20-%20Blue%20Eyed%20Boy.zip",
+    "preview_time": 107294,
+    "preview_end_time": 152470
+  },
+  "suicidepact": {
+    "title": "Suicide Pact",
+    "artist": "Trophy Eyes",
+    "album": "Chemical Miracle",
+    "charter": "Equinox",
+    "releaseYear": 2016,
+    "genre": "Pop Punk",
+    "cover": "chemicalmiracle.png",
+    "source": "custom",
+    "loading_phrase": "Suicide Pact is about riding along in the car and eventually crashing it and dying.",
+    "key": "D♭ Major",
+    "bpm": 208,
+    "duration": "4m 3s",
+    "ageRating": "Mature",
+    "is_verified": "true",
+    "is_cover": "false",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 7,
+      "lead": 4,
+      "bass": 3,
+      "vocals": 3,
+
+      "plastic-drums": 6,
+      "plastic-guitar": 3,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2025-07-15T15:44:39Z",
+    "songlink": "https://song.link/us/i/1136408914",
+    "previewUrl": "suicidepact.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/refs/heads/main/Trophy%20Eyes%20-%20Suicide%20Pact.zip",
+    "preview_time": 51314,
+    "preview_end_time": 88186
+  },
+  "batcountry": {
+    "title": "Bat Country",
+    "artist": "Avenged Sevenfold",
+    "album": "City of Evil",
+    "charter": "Harmonix, It's Only Connor",
+    "releaseYear": 2005,
+    "genre": "Metal",
+    "cover": "cityofevil.png",
+    "source": "rb2dlc",
+    "key": "C Major",
+    "bpm": 125,
+    "duration": "5m 17s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "doubleBass": "true",
+    "format": "ini",
+    "proVoxHarmonies": "1",
+    "difficulties": {
+      "drums": 7,
+      "lead": 6,
+      "bass": 5,
+      "vocals": 4,
+
+      "plastic-drums": 7,
+      "plastic-guitar": 7,
+      "plastic-bass": 5,
+      "pro-vocals": 5
+    },
+    
+    "createdAt": "2025-03-16T18:24:33Z",
+    "songlink": "https://song.link/us/i/65621021",
+    "previewUrl": "batcountry.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/745ef8420e99ec21281fc85cdc4381b81d5cfcad/Avenged%20Sevenfold%20-%20Bat%20Country.zip",
+    "preview_time": 39398,
+    "preview_end_time": 81670
+  }
+}
+
+
