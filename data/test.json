@@ -1,44 +1,44 @@
 {
     "jetpackjoyridetheme": {
-    "title": "Jetpack Joyride Main Theme",
-    "artist": "Halfbrick",
-    "album": "Jetpack Joyride",
-    "charter": "LysiX",
-    "source": "custom",
-    "releaseYear": 2011,
-    "genre": "Jazz EDM",
-    "ageRating": "Everyone",
-    "is_verified": "true",
-    "is_cover": "false",
+    "title": "Test",
+    "artist": "Test",
+    "album": "Test",
+    "charter": "Test",
+    "source": "Test",
+    "releaseYear": 0,
+    "genre": "Test",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "true",
     "cover": "jetpackjoyridetheme.png",
-    "bpm": 123,
-    "duration": "2m 17s",
+    "bpm": 0,
+    "duration": "0m 00s",
     "key": "A♭ Major",
-    "format": "ini",
-    "currentversion": 1,
+    "format": "json",
+    "currentversion": 2,
     "difficulties": {
-      "vocals": -1,
-      "lead": 5,
-      "bass": 4,
-      "drums": 5,
-      "plastic-bass": 4,
-      "plastic-drums": 6,
-      "plastic-guitar": 5
+      "vocals": 1,
+      "lead": 1,
+      "bass": 1,
+      "drums": 1,
+      "plastic-bass": 1,
+      "plastic-drums": 1,
+      "plastic-guitar": 1
     },
-    "createdAt": "2025-03-16T22:20:17.000Z",
-    "songlink": "https://song.link/s/5TVBHi9mXqELfrGe9BreOG",
-    "previewUrl": "jetpackjoyridetheme.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Jetpack%20Joyride%20Main%20Theme.zip",
-    "preview_time": 50794,
-    "preview_end_time": 75000,
+    "createdAt": "2025-03-12T22:20:17.000Z",
+    "songlink": "https://song.link/s/5TVBHi9mXqELfrGe9BreOA",
+    "previewUrl": "jetpackjoyride.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Jetpack%20Joyride%20Main%20Thee.zip",
+    "preview_time": 51111,
+    "preview_end_time": 111111,
     "modalShadowColors": {
       "default": {
-        "color1": "",
-        "color2": ""  
+        "color1": "#00000",
+        "color2": "#00000"  
       },
       "hover": {
-        "color1": "",
-        "color2": "" 
+        "color1": "#00000",
+        "color2": "#00000" 
       }
     }
  },
