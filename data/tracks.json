@@ -15,6 +15,7 @@
     "duration": "2m 17s",
     "key": "A♭ Major",
     "format": "ini",
+    "currentVersion": 1,
     "difficulties": {
       "vocals": -1,
       "lead": 5,
@@ -129,7 +130,7 @@
  "untitledchordsthing": {
     "title": "Untitled Chords Thing",
     "format": "json",
-    "currentVersion": "1",
+    "currentVersion": 1,
     "artist": "Synthfox Soundworks",
     "charter": "Narrik Synthfox",
     "genre": "Electronic",
