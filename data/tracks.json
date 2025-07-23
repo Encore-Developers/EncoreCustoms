@@ -601,6 +601,7 @@
     "ageRating": "Everyone",
     "is_verified": "false",
     "is_cover": "false",
+    "currentVersion":"1",
 
     "format": "json",
     "difficulties": {
@@ -621,6 +622,7 @@
     "artist": "Limozeen",
     "album": "Strong Bad Sings and Other Type Hits",
     "charter": "Harmonix, Cameron44251",
+    "currentVersion":"1",
     "releaseYear": 2003,
     "genre": "Metal",
     "cover": "strongbadandothertypebeats.png",
@@ -702,6 +704,7 @@
     "duration": "5m 23s",
     "ageRating": "Teen",
     "is_verified": "true",
+    "currentVersion": "1",
     "is_cover": "false",
 
     "doubleBass": "false",
@@ -776,6 +779,7 @@
     "duration": "5m 8s",
     "ageRating": "Everyone",
     "is_verified": "true",
+    "currentVersion": "1",
     "is_cover": "false",
 
     "doubleBass": "true",
@@ -806,6 +810,7 @@
     "charter": "Equinox",
     "releaseYear": 2023,
     "genre": "Pop Punk",
+    "currentVersion": "1",
     "cover": "suicideandsunshine.png",
     "source": "custom",
     "loading_phrase": "The song tells a story of a friend the lead singer had and the feeling of dread to see someone suffering.",
@@ -840,6 +845,7 @@
     "title": "Suicide Pact",
     "artist": "Trophy Eyes",
     "album": "Chemical Miracle",
+    "currentVersion": "1",
     "charter": "Equinox",
     "releaseYear": 2016,
     "genre": "Pop Punk",
