@@ -946,6 +946,39 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/e2375da7575dfda5c2a5f56024aad705d978192f/Umeboshi%20Chazuke%20-%20Bison%20Charge.zip",
     "preview_time": 90000,
     "preview_end_time": 110000
+  },
+  "concertforyou": {
+    "title": "Concert for you",
+    "artist": "Toby Fox",
+    "album": "DELTARUNE Chapters 3+4 (Original Game Soundtrack)",
+    "charter": "It's Only Connor",
+    "releaseYear": 2025,
+    "genre": "Novelty",
+    "cover": "deltarunechaptersthreeandfour.png",
+    "source": "custom",
+    "key": "N/A",
+    "bpm": 113,
+    "duration": "27s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "doubleBass": "false",
+    "format": "ini",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "keys": 1,
+      "plastic-keys": 1,
+      "real-keys": 1
+    },
+    
+    "createdAt": "2025-07-23T12:00:00.000Z",
+    "songlink": "https://song.link/us/i/1818714939",
+    "previewUrl": "concertforyou.mp3",
+    "download": "",
+    "preview_time": 0,
+    "preview_end_time": 27461
   }
 }
 
