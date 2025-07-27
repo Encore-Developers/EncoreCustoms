@@ -979,6 +979,78 @@
     "download": "https://raw.githubusercontent.com/JaydenzKoci/EncoreCustoms/main/assets/charts/Toby%20Fox%20-%20Concert%20for%20you.zip",
     "preview_time": 0,
     "preview_end_time": 27461
+  },
+  "krush": {
+    "title": "Krush",
+    "artist": "Pierre Blanche",
+    "album": "V LIBERTY 2 Original Soundtrack",
+    "charter": "Eezku, Rob908",
+    "releaseYear": 2024,
+    "genre": "Psy Hardcore",
+    "cover": "djmaxv-libertytwo.png",
+    "source": "custom",
+    "loading_phrase": "Woah it's an encore in here!",
+    "key": "A Minor",
+    "bpm": 160,
+    "duration": "2m 13s",
+    "ageRating": "Everyone",
+    "is_verified": "true",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 6,
+      "lead": 7,
+      "bass": 3,
+      "vocals": 3,
+
+      "plastic-drums": 6,
+      "plastic-guitar": 7,
+      "plastic-bass": 2
+    },
+    
+    "createdAt": "2025-07-27T08:09:27Z",
+    "songlink": "https://song.link/us/i/1786286855",
+    "previewUrl": "krush.mp3",
+    "download": "https://raw.githubusercontent.com/Eezku/songs/bd1e12a9de73acee8fd8b051fce1fb4b11f9196a/Krush.zip",
+    "preview_time": 50794,
+    "preview_end_time": 75000
+  },
+  "sleepwalker": {
+    "title": "Sleepwalker",
+    "artist": "Ava Max",
+    "album": "Diamonds & Dancefloors",
+    "charter": "Jaydenz",
+    "releaseYear": 2023,
+    "genre": "Pop",
+    "cover": "diamondsanddancefloors.png",
+    "source": "custom",
+    "loading_phrase": "I'm an obsession, not just a game",
+    "key": "E Minor",
+    "bpm": 126,
+    "duration": "3m 14s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "format": "json",
+    "difficulties": {
+      "drums": 3,
+      "lead": 4,
+      "bass": 3,
+      "vocals": 3
+    },
+    
+    "createdAt": "2025-07-27T21:54:13Z",
+    "songlink": "https://song.link/us/i/1634875615",
+    "previewUrl": "sleepwalker.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/01d11dfbda5ff236e515d9da6f29d37e7c39e993/Ava%20Max%20-%20Sleepwalker.zip",
+    "preview_time": 38000,
+    "preview_end_time": 68000,
+    "fish": "🐟"
   }
 }
 
