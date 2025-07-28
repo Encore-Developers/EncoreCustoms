@@ -1051,6 +1051,44 @@
     "preview_time": 38000,
     "preview_end_time": 68000,
     "fish": "🐟"
+  },
+  "alright": {
+    "title": "Alright",
+    "artist": "Kendrick Lamar",
+    "album": "To Pimp a Butterfly",
+    "charter": "tposejank",
+    "releaseYear": 2015,
+    "genre": "Hip-Hop",
+    "cover": "topimpabutterfly.png",
+    "source": "custom",
+    "loading_phrase": "You could live at the mall.",
+    "key": "G Major",
+    "bpm": 110,
+    "duration": "3m 39s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 4,
+      "lead": 4,
+      "bass": 2,
+      "vocals": 7,
+
+      "plastic-drums": 4,
+      "plastic-guitar": 4,
+      "plastic-bass": 2
+    },
+    
+    "createdAt": "2024-07-03T05:12:46Z",
+    "songlink": "https://song.link/us/i/1440829463",
+    "previewUrl": "alright.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/a40a6246599de02492c4d2326a6cffddb541816c/Alright%20-%20Kendrick%20Lamar.zip",
+    "preview_time": 74245,
+    "preview_end_time": 109286
   }
 }
 
