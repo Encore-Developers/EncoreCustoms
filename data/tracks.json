@@ -1089,6 +1089,41 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/a40a6246599de02492c4d2326a6cffddb541816c/Alright%20-%20Kendrick%20Lamar.zip",
     "preview_time": 74245,
     "preview_end_time": 109286
+  },
+  "muckablucka": {
+    "title": "Mucka Blucka",
+    "artist": "Tally Hall",
+    "album": "Marvin's Marvelous Mechanical Museum",
+    "charter": "Insan3e",
+    "releaseYear": 2005,
+    "genre": "Novelty",
+    "cover": "marvins-marvelous-mechanical-museum.png",
+    "source": "custom",
+    "key": "D♭ Major",
+    "bpm": 106,
+    "duration": "1m 38s",
+    "ageRating": "Everyone",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 5,
+      "lead": 3,
+      "vocals": 4,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 5
+    },
+    
+    "createdAt": "2024-07-03T14:27:15Z",
+    "songlink": "https://song.link/us/i/442414811",
+    "previewUrl": "muckablucka.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/6cd4e35dd05fe694f9c28a3d3a439ee2f8f6bd7f/Tally%20Hall%20-%20Mucka%20Blucka.zip",
+    "preview_time": 21000,
+    "preview_end_time": 39000
   }
 }
 
