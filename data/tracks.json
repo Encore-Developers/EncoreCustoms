@@ -1155,6 +1155,47 @@
     "download": "https://raw.githubusercontent.com/Encore-Developers/songs/6cd4e35dd05fe694f9c28a3d3a439ee2f8f6bd7f/Tally%20Hall%20-%20Mucka%20Blucka.zip",
     "preview_time": 21000,
     "preview_end_time": 39000
+  },
+  "beguiled": {
+    "title": "Beguiled",
+    "artist": "Splashdown",
+    "album": "Stars and Garters",
+    "charter": "LysiX",
+    "releaseYear": 1996,
+    "genre": "Rock",
+    "cover": "starsandgarters.png",
+    "source": "custom",
+    "loading_phrase": "Splashdown is the proto-Harmonix band. The members split off and formed the bands Freezepop and Anarchy Club after Splashdown disbanded in 2001.",
+    "key": "B♭ Minor",
+    "bpm": 95,
+    "duration": "4m 09s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "doubleBass": "false",
+    "format": "json",
+    "proVoxHarmonies": "1",
+    "difficulties": {
+      "drums": 5,
+      "lead": 6,
+      "bass": 3,
+      "vocals": 3,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 6,
+      "plastic-bass": 3,
+      "pro-vocals": 3
+    },
+    
+    "createdAt": "2024-10-30T23:32:50Z",
+    "songlink": "https://song.link/us/i/206556809",
+    "previewUrl": "beguiled.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/a130396b6b35f8ea1ce22d5969ce2d73737e8d70/Splashdown%20-%20Beguiled.zip",
+    "preview_time": 128942,
+    "preview_end_time": 169395,
+    "music_start_time": 2520
   }
 }
 
