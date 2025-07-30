@@ -37,10 +37,20 @@
       "plastic-keys": 7,
       "pro-vocals": 7,
 
-      "real-drums": 7,
+      "six-fret-guitar": 7,
+      "six-fret-bass": 7,
+      "six-fret-rhythm": 7,
+
+
       "real-guitar": 7,
+      "real-rhythm": 7,
       "real-bass": 7,
-      "real-keys": 7
+      "real-keys": 7,
+
+      "elite-drums": 7,
+      "elite-keys": 7,
+      "elite-guitar": 7,
+      "elite-bass": 7
     },
     
     "createdAt": "2025-03-16T22:20:17.000Z",
