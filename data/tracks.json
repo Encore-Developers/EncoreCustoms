@@ -1067,10 +1067,10 @@
 
     "format": "json",
     "difficulties": {
-      "drums": 3,
-      "lead": 4,
-      "bass": 3,
-      "vocals": 3
+      "drums": 4,
+      "lead": 5,
+      "bass": 4,
+      "vocals": 4
     },
     
     "createdAt": "2025-07-27T21:54:13Z",
