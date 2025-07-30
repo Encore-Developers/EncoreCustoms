@@ -993,7 +993,6 @@
 
     "doubleBass": "false",
     "format": "ini",
-    "proVoxHarmonies": "0",
     "difficulties": {
       "keys": 1,
       "plastic-keys": 1,
