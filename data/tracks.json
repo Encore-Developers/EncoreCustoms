@@ -705,7 +705,7 @@
     "createdAt": "2025-03-25T07:28:10Z",
     "songlink": "https://song.link/us/i/1764767919",
     "previewUrl": "sugarcoatedtwoface.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/c3c83e10a791ed16b2efcedcee72f32af95f29f6/Saturn%20Candies%20-%20Sugar-Coated%20Two-Face.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/468f7de22527c63ad76b79a7a5abd28551e507ef/Saturn%20Candies%20-%20Sugar-Coated%20Two-Face.zip",
     "preview_time": 96000,
     "preview_end_time": 121043
   },
@@ -1170,12 +1170,12 @@
     "bpm": 95,
     "duration": "4m 09s",
     "ageRating": "Teen",
-    "is_verified": "false",
+    "is_verified": "true",
     "is_cover": "false",
-    "currentVersion": "1",
+    "currentVersion": "2",
 
     "doubleBass": "false",
-    "format": "json",
+    "format": "ini",
     "proVoxHarmonies": "1",
     "difficulties": {
       "drums": 5,
@@ -1185,6 +1185,7 @@
 
       "plastic-drums": 5,
       "plastic-guitar": 6,
+      "plastic-rhythm": 4,
       "plastic-bass": 3,
       "pro-vocals": 3
     },
@@ -1192,7 +1193,7 @@
     "createdAt": "2024-10-30T23:32:50Z",
     "songlink": "https://song.link/us/i/206556809",
     "previewUrl": "beguiled.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/a130396b6b35f8ea1ce22d5969ce2d73737e8d70/Splashdown%20-%20Beguiled.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/aa2d03d2769a48723e304ab09de7ae582e0aa6a3/Splashdown%20-%20Beguiled.zip",
     "preview_time": 128942,
     "preview_end_time": 169395,
     "music_start_time": 2520
