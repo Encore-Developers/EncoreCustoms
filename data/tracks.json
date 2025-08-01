@@ -1172,7 +1172,7 @@
     "ageRating": "Teen",
     "is_verified": "true",
     "is_cover": "false",
-    "currentVersion": "2",
+    "currentVersion": "3",
 
     "doubleBass": "false",
     "format": "ini",
@@ -1193,7 +1193,7 @@
     "createdAt": "2024-10-30T23:32:50Z",
     "songlink": "https://song.link/us/i/206556809",
     "previewUrl": "beguiled.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/aa2d03d2769a48723e304ab09de7ae582e0aa6a3/Splashdown%20-%20Beguiled.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/e557d8e553b0c9192769ac85b0b271cd2a6fbc3d/Splashdown%20-%20Beguiled.zip",
     "preview_time": 128942,
     "preview_end_time": 169395,
     "music_start_time": 2520
