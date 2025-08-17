@@ -1197,6 +1197,42 @@
     "preview_time": 128942,
     "preview_end_time": 169395,
     "music_start_time": 2520
+  },
+  "heatabnormal": {
+    "title": "Heat Abnormal (feat. Adachi Rei)",
+    "artist": "Iyowa",
+    "album": "",
+    "charter": "pinkcrackshot",
+    "releaseYear": 2022,
+    "language": "Japanese",
+    "genre": "Pop",
+    "cover": "heatabnormal.png",
+    "source": "custom",
+    "loading_phrase": "",
+    "key": "B♭ Minor",
+    "bpm": 183,
+    "duration": "4m 0s",
+    "ageRating": "Teen",
+    "is_verified": "false",
+    "is_cover": "false",
+    "currentVersion": "1",
+
+    "doubleBass": "false",
+    "format": "json",
+    "difficulties": {
+      "drums": 5,
+      "lead": 7,
+      "bass": 4,
+      "vocals": 6
+    },
+    
+    "createdAt": "2025-07-29T20:24:41Z",
+    "songlink": "https://song.link/us/i/1650867230",
+    "previewUrl": "heatabnormal.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/4ec87e084efac432d6c896ad106e7ff644709b18/Iyowa%20-%20Heat%20Abnormal.zip",
+    "preview_time": 67055,
+    "preview_end_time": 89023,
+    "music_start_time": 1360
   }
 }
 
