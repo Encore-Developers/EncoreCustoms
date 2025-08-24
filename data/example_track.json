@@ -20,8 +20,9 @@
     "newYear": 2021,
     "currentVersion": "1",
 
-    "doubleBass": "true",
     "format": "ini",
+    "fiveLaneHard": "true",
+    "doubleBass": "true",
     "proVoxHarmonies": "3",
     "difficulties": {
       "drums": 7,
