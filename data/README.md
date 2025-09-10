@@ -22,7 +22,7 @@
 - ageRating = The age rating of the song, if not set by charter or listed in any game--add it yourself. Follows Rock Band guidelines: Family Friendly, Supervision Recommended, Mature Content
 - is_verified = Is the song verified in the Songs repository or not?
 - is_cover = Is the song a cover or not?
-- currentVersion = The charts current version starting from when it was added to this API. Increase by one if a update to the chart was made. This is the bot looks at the MIDI files so it's extremely important.
+- currentVersion = The charts current version starting from when it was added to this API. Increase by one if a update to the chart was made. This is how the bot looks at the MIDI files so it's extremely important.
 - format = The format of the chart. Only JSON and INI applies at this moment in time.
 - fiveLaneHard = Does the chart use the fifth lane on gamepad Hard?
 - doubleBass = Does Classic/Elite Drums have Expert+?
