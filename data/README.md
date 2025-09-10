@@ -27,7 +27,7 @@
 - fiveLaneHard = Does the chart use the fifth lane on gamepad Hard?
 - doubleBass = Does Classic/Elite Drums have Expert+?
 - proVoxHarmonies = How many Harmony tracks are charted on Classic Harmonies?
-## Bot Data
+## API Data
 - createdAt = The date of time the chart was published, in ISO 8601 format.
 - songLink = The song.link page of the song.
 - previewUrl = The filename of the songs audio file. Must share the same name as the shortname
