@@ -9,21 +9,21 @@
 ## Info
 - title = The Song's Name, make any adjustments as needed for bot consistancy
 - artist = The song artist,  make any adjustments as needed for bot consistancy
-- album = The album the song is featured in, stick to the song's release album and not use compilations, if it's not in a album, leave this null
+- album = The album the song is featured in, stick to the song's release album and not use compilations, if it's not in a album, leave this field out of the track
 - charter = Anyone who authored the chart
-- language = The language(s) the song lyrics are in; include regardless if a Classic Vocal chart exist. Null values will default to English
-- releaseyear = The year the song debutted
+- language = The language(s) the song lyrics are in; include regardless if a Classic Vocals chart exist. Null values will default to English
+- releaseyear = The year the song debuted
 - genre = The genre of the song, don't be too specific, if the author included a specific genre: keep it in the bot, don't make adjustments.
 - cover = The art that will be displayed anywhere that uses this API
 - source = The origins of the chart. Defaults to custom. Use YARC OpenSource IDs.
 - loading_phrase = The loading_phrase of the chart, shorten if needed.
 - key = The key and mode that the song is in. Try to refer to the charts Classic Vocal/Pro Keyboard charts if they exist
-- duration = The duration of the song. Try to refer to the duration listed in the chart metadata
+- duration = The duration of the song. Refer to the duration listed in the chart metadata
 - ageRating = The age rating of the song, if not set by charter or listed in any game--add it yourself. Follows Rock Band guidelines: Family Friendly, Supervision Recommended, Mature Content
 - is_verified = Is the song verified in the Songs repository or not?
 - is_cover = Is the song a cover or not?
 - currentVersion = The charts current version starting from when it was added to this API. Increase by one if a update to the chart was made. This is how the bot looks at the MIDI files so it's extremely important.
-- format = The format of the chart. Only JSON and INI applies at this moment in time.
+- format = The format of the chart. Only JSON and INI applies at the moment.
 - fiveLaneHard = Does the chart use the fifth lane on gamepad Hard?
 - doubleBass = Does Classic/Elite Drums have Expert+?
 - proVoxHarmonies = How many Harmony tracks are charted on Classic Harmonies?
@@ -32,8 +32,8 @@
 - songLink = The song.link page of the song.
 - previewUrl = The filename of the songs audio file. Must share the same name as the shortname
 - download = The charts Github download. If the chart isn't on Github, upload it to this repository.
-- preview_time = The time the song should preview at in milliseconds.
-- preview_end_time = The time the song preview should end at in milliseconds. Try to keep the length below one minute.
+- preview_time = The time the song preview starts in milliseconds.
+- preview_end_time = The time the song preview should end at in milliseconds. Try to keep the length below 45 seconds.
 - music_start_time = The time the song starts for the music command in milliseconds. Usually starts after the count-in.
 ## Difficulties
 - drums = The difficulty rating of Pad Drums
