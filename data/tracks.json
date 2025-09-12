@@ -671,6 +671,7 @@
   "sugarcoatedtwoface": {
     "title": "Sugar-Coated Two-Face (feat. Asterian)",
     "artist": "Saturn Candies",
+    "fish": "🐟",
     "charter": "It's Only Connor",
     "releaseYear": 2024,
     "currentVersion": "2",
@@ -906,6 +907,7 @@
   },
   "batcountry": {
     "title": "Bat Country",
+    "fish": "🐟",
     "artist": "Avenged Sevenfold",
     "album": "City of Evil",
     "charter": "Harmonix, It's Only Connor",
@@ -976,6 +978,7 @@
   },
   "concertforyou": {
     "title": "Concert for you",
+    "fish": "🐟",
     "artist": "Toby Fox",
     "album": "DELTARUNE Chapters 3+4 (Original Game Soundtrack)",
     "charter": "It's Only Connor",
@@ -1232,6 +1235,51 @@
     "preview_time": 67055,
     "preview_end_time": 89023,
     "music_start_time": 1360
+  },
+  "helpthesilliesareafterme": {
+    "title": "help, the sillies are after me!1!!!1",
+    "fish": "🐟🐟🐟",
+    "artist": "It's Only Connor",
+    "charter": "It's Only Connor",
+    "language": "English",
+    "releaseYear": 2025,
+    "genre": "Chiptune",
+    "cover": "helpthesilliesareafterme.png",
+    "source": "yarn",
+    "loading_phrase": "hi this is a loading phrase.... if you see this in the website or something, this is a template for us to add songs and is not actually a song.",
+    "key": "D Major",
+    "bpm": 195,
+    "duration": "3m 7s",
+    "ageRating": "Family Friendly",
+    "is_verified": "false",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "ini",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 3,
+      "bass": 6,
+      "keys": 5,
+
+      "plastic-drums": 4,
+      "plastic-bass": 6,
+      "plastic-keys": 5,
+
+      "real-keys": 5,
+      "elite-drums": 4
+    },
+    
+    "createdAt": "2025-09-12T00:25:44Z",
+    "songlink": "https://song.link/us/i/1803299260",
+    "previewUrl": "helpthesilliesareafterme.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/c1490d7d83d4ffa443820880280f5665ce61a974/It's%20Only%20Connor%20-%20help%2C%20the%20sillies%20are%20after%20me!1!!!1.zip",
+    "preview_time": 41846,
+    "preview_end_time": 81230,
+    "music_start_time": 2460
   }
 }
 
