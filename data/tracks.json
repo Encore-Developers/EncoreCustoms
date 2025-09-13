@@ -1254,7 +1254,7 @@
     "is_verified": "false",
     "is_cover": "false",
     "newYear": 2021,
-    "currentVersion": "1",
+    "currentVersion": "2",
 
     "format": "ini",
     "fiveLaneHard": "false",
@@ -1276,7 +1276,7 @@
     "createdAt": "2025-09-12T00:25:44Z",
     "songlink": "https://song.link/us/i/1803299260",
     "previewUrl": "helpthesilliesareafterme.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/c1490d7d83d4ffa443820880280f5665ce61a974/It's%20Only%20Connor%20-%20help%2C%20the%20sillies%20are%20after%20me!1!!!1.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/raw/92ce92f7312821cb04196ab0d19bbd6dc850ad66/It's%20Only%20Connor%20-%20help,%20the%20sillies%20are%20after%20me!1!!!1.zip",
     "preview_time": 41846,
     "preview_end_time": 81230,
     "music_start_time": 2460
