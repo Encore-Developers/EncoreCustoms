@@ -1262,14 +1262,14 @@
     "proVoxHarmonies": "0",
     "difficulties": {
       "drums": 3,
-      "bass": 6,
-      "keys": 5,
+      "bass": 4,
+      "keys": 4,
 
       "plastic-drums": 4,
-      "plastic-bass": 6,
-      "plastic-keys": 5,
+      "plastic-bass": 5,
+      "plastic-keys": 4,
 
-      "real-keys": 5,
+      "real-keys": 4,
       "elite-drums": 4
     },
     
