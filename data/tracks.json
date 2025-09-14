@@ -1281,6 +1281,45 @@
     "preview_time": 41846,
     "preview_end_time": 81230,
     "music_start_time": 2460
+  },
+  "bodys": {
+    "title": "Bodys",
+    "artist": "Car Seat Headrest",
+    "album": "Twin Fantasy (Face to Face)",
+    "charter": "Insan3e",
+    "language": "English",
+    "releaseYear": 2018,
+    "genre": "Indie Rock",
+    "cover": "twinfantasy.png",
+    "source": "custom",
+    "key": "D Major",
+    "bpm": 144,
+    "duration": "6m 50s",
+    "ageRating": "Supervision Recommended",
+    "is_verified": "false",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 4,
+      "lead": 4,
+      "vocals": 4,
+
+      "plastic-guitar": 5
+    },
+    
+    "createdAt": "2024-07-03T14:09:18Z",
+    "songlink": "https://song.link/us/i/1586483456",
+    "previewUrl": "bodys.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/4abdd6790a1fc824fa4aa6c3b7d5e7729bb08f6a/Bodys%20-%20Car%20Seat%20Headrest.zip",
+    "preview_time": 96266,
+    "preview_end_time": 123357,
+    "music_start_time": 3344
   }
 }
 
