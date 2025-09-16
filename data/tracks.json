@@ -1320,6 +1320,43 @@
     "preview_time": 96266,
     "preview_end_time": 123357,
     "music_start_time": 3344
+  },
+  "beachlifeindeath": {
+    "title": "Beach Life-In-Death",
+    "artist": "Car Seat Headrest",
+    "album": "Twin Fantasy (Face to Face)",
+    "charter": "Insan3e",
+    "language": "English",
+    "releaseYear": 2018,
+    "genre": "Indie Rock",
+    "cover": "twinfantasy.png",
+    "source": "custom",
+    "key": "G Major",
+    "bpm": 162,
+    "duration": "13m 18s",
+    "ageRating": "Mature Content",
+    "is_verified": "false",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 5,
+      "lead": 4,
+      "plastic-guitar": 5
+    },
+    
+    "createdAt": "2024-07-03T14:30:55Z",
+    "songlink": "https://song.link/i/1586483412",
+    "previewUrl": "beachlifeindeath.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/1485d3c5209d6301385ecf17e101e312b6a2fbf3/Beach%20Life-In-Death%20-%20Car%20Seat%20Headrest.zip",
+    "preview_time": 217790,
+    "preview_end_time": 241460,
+    "music_start_time": 1480
   }
 }
 
