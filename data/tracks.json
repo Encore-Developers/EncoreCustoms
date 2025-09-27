@@ -1357,6 +1357,53 @@
     "preview_time": 217790,
     "preview_end_time": 241460,
     "music_start_time": 1480
+  },
+  "lostinaerosol": {
+    "title": "lost in aerosol (feat. Kuduza Rou)",
+    "artist": "alex_moosic",
+    "charter": "It's Only Connor",
+    "fish":"🐟",
+    "language": "English",
+    "releaseYear": 2025,
+    "genre": "Chiptune",
+    "cover": "lostinaerosol.png",
+    "source": "custom",
+    "loading_phrase": "\"these abnormalities tainting your sight... let us save you.\"",
+    "key": "G Minor",
+    "bpm": 71,
+    "duration": "4m 08s",
+    "ageRating": "Supervision Recommended",
+    "is_verified": "false",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "ini",
+    "fiveLaneHard": "true",
+    "doubleBass": "false",
+    "proVoxHarmonies": "3",
+    "difficulties": {
+      "drums": 3,
+      "bass": 1,
+      "keys": 4,
+      "vocals": 3,
+
+      "plastic-drums": 2,
+      "plastic-bass": 1,
+      "plastic-keys": 4,
+      "pro-vocals": 3,
+
+      "real-bass": 1,
+      "real-keys": 4,
+      "elite-drums": 2
+    },
+    
+    "createdAt": "2025-09-27T01:01:24Z",
+    "previewUrl": "lostinaerosol.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/9b3e725321809dff0dc7dbba7ca3d5076ddc1721/alex_moosic%20-%20lost%20in%20aerosol.zip",
+    "preview_time": 69986,
+    "preview_end_time": 110704,
+    "music_start_time": 3380
   }
 }
 
