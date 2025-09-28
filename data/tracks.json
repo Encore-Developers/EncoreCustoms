@@ -1404,6 +1404,91 @@
     "preview_time": 69986,
     "preview_end_time": 110704,
     "music_start_time": 3380
+  },
+  "infinite": {
+    "title": "Infinite",
+    "artist": "Tyler Smyth & Andy Bane",
+    "album": "Sonic Forces Vocal Traxx On The Edge",
+    "charter": "tposejank",
+    "language": "English",
+    "releaseYear": 2017,
+    "genre": "Rock",
+    "cover": "sonic-forces.png",
+    "source": "custom",
+    "loading_phrase": "Peak Soundtrack.",
+    "key": "C# Minor",
+    "bpm": 140,
+    "duration": "4m 37s",
+    "ageRating": "Supervision Recommended",
+    "is_verified": "false",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 7,
+      "lead": 7,
+      "bass": 3,
+      "vocals": 4,
+
+      "plastic-drums": 7,
+      "plastic-guitar": 7,
+      "plastic-bass": 3
+    },
+    
+    "createdAt": "2024-07-03T05:25:07Z",
+    "songlink": "https://song.link/us/i/1314154550",
+    "previewUrl": "infinite.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/9f783d25ba0a0deb872e17414e7b8b306fc7bcde/Tyler%20Smith%20%26%20Andy%20Bane%20-%20Infinite.zip",
+    "preview_time": 15373,
+    "preview_end_time": 71999,
+    "music_start_time": 3428
+  },
+  "lovemelovemeloveme": {
+    "title": "Aishite Aishite Aishite (feat. Hatsune Miku)",
+    "artist": "Kikuo",
+    "album": "Kikuo Miku 3",
+    "charter": "tposejank",
+    "language": "Japanese",
+    "releaseYear": 2013,
+    "genre": "Pop",
+    "cover": "kikuomikuthree.png",
+    "source": "custom",
+    "key": "G# Major",
+    "bpm": 115,
+    "duration": "4m 13s",
+    "ageRating": "Supervision Recommended",
+    "is_verified": "false",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 6,
+      "lead": 7,
+      "bass": 4,
+      "vocals": 3,
+
+      "plastic-drums": 6,
+      "plastic-guitar": 7,
+      "plastic-bass": 4
+    },
+    
+    "createdAt": "2024-07-10T13:24:45Z",
+    "songlink": "https://song.link/s/3ty4jnVIJ9My8ZnXFMc0Fg",
+    "previewUrl": "lovemelovemeloveme.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/e5de1e442766cf08232640e8feab63c9cb3e6a56/Aishite%20-%20Kikuo.zip",
+    "preview_time": 59220,
+    "preview_end_time": 97112,
+    "music_start_time": 3155
   }
 }
 
