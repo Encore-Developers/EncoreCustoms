@@ -646,7 +646,7 @@
     "bpm": 180,
     "duration": "2m 20s",
     "ageRating": "Family Friendly",
-    "verification": "Community Submission",
+    "verification": "🌐 Community Submission",
     "is_cover": "false",
     "currentVersion":"1",
 
@@ -1036,7 +1036,7 @@
     "bpm": 113,
     "duration": "27s",
     "ageRating": "Family Friendly",
-    "verification": "Community Submission",
+    "verification": "🌐 Community Submission",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1606,7 +1606,7 @@
     "genre": "Experimental",
     "cover": "isolation.png",
     "source": "custom",
-    "key": "C Major",
+    "key": "F Minor",
     "bpm": 157,
     "filesize": "3.38MB",
     "has_stems": "false",
