@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     SONGLINK_ICON_WIDTH: 'auto'
   };
 
-  const ASSET_BASE_URL = 'https://jaydenzkoci.github.io/EncoreCustoms';
+  const ASSET_BASE_URL = 'https://encore-developers.github.io/EncoreCustoms';
 
   // DOM Elements
   const elements = {
