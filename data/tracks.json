@@ -16,7 +16,7 @@
     "bpm": 150,
     "duration": "1m 53s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
     "difficulties": {
       "vocals": 3,
@@ -52,7 +52,7 @@
     "filesize": "5.26MB",
     "ageRating": "Family Friendly",
     "has_stems": "true",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
     "cover": "jetpackjoyridetheme.png",
     "bpm": 123,
@@ -102,7 +102,7 @@
     "bpm": 72,
     "music_start_time": 4476,
     "ageRating": "Supervision Recommended",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
     "duration": "3m 39s",
     "key": "D♭ Major",
@@ -148,7 +148,7 @@
     "currentVersion": "1",
     "bpm": 127,
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
     "duration": "2m 13s",
     "key": "G Major",
@@ -196,7 +196,7 @@
     "bpm": 166,
     "duration": "3m 40s",
     "ageRating": "Mature Content",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
     "difficulties": {
       "vocals": 7,
@@ -241,7 +241,7 @@
     "music_start_time": 3171,
     "duration": "3m 37s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "difficulties": {
@@ -279,7 +279,7 @@
     "bpm": 110,
     "duration": "3m 09s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "difficulties": {
@@ -313,7 +313,7 @@
     "bpm": 140,
     "duration": "2m 53s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "proVoxHarmonies": "2",
@@ -357,7 +357,7 @@
     "bpm": 175,
     "duration": "3m 50s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "difficulties": {
@@ -397,7 +397,7 @@
     "bpm": 180,
     "duration": "1m 53s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "doubleBass": "true",
@@ -439,7 +439,7 @@
     "bpm": 150,
     "duration": "1m 31s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "true",
 
     "difficulties": {
@@ -472,7 +472,7 @@
     "music_start_time": 3865,
     "duration": "2m 40s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "difficulties": {
@@ -509,7 +509,7 @@
     "bpm": 100,
     "duration": "3m 25s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "difficulties": {
@@ -543,7 +543,7 @@
     "music_start_time": 2668,
     "duration": "4m 58s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "difficulties": {
@@ -577,7 +577,7 @@
     "duration": "2m 59s",
     "currentVersion": "1",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
 
@@ -611,7 +611,7 @@
     "filesize": "5.50MB",
     "duration": "3m 46s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "format": "json",
@@ -646,7 +646,7 @@
     "bpm": 180,
     "duration": "2m 20s",
     "ageRating": "Family Friendly",
-    "is_verified": "false",
+    "verification": "Community Submission",
     "is_cover": "false",
     "currentVersion":"1",
 
@@ -681,7 +681,7 @@
     "bpm": 148,
     "duration": "2m 14s",
     "ageRating": "Family Friendly",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
 
     "doubleBass": "false",
@@ -717,8 +717,8 @@
     "bpm": 115,
     "duration": "4m 43s",
     "ageRating": "Supervision Recommended",
+    "verification": "❗Needs Review",
     "music_start_time": 4134,
-    "is_verified": "false",
     "is_cover": "false",
 
     "format": "ini",
@@ -760,7 +760,7 @@
     "duration": "5m 23s",
     "ageRating": "Supervision Recommended",
     "filesize": "18.5MB",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "currentVersion": "1",
     "is_cover": "false",
 
@@ -800,7 +800,7 @@
     "music_start_time": 4729,
     "duration": "2m 14s",
     "ageRating": "Family Friendly",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
 
     "format": "ini",
@@ -840,7 +840,7 @@
     "bpm": 165,
     "duration": "5m 8s",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "currentVersion": "1",
     "is_cover": "false",
 
@@ -882,7 +882,7 @@
     "bpm": 170,
     "duration": "3m 0s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "doubleBass": "false",
@@ -922,7 +922,7 @@
     "bpm": 208,
     "duration": "4m 3s",
     "ageRating": "Mature Content",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
 
     "doubleBass": "false",
@@ -962,7 +962,7 @@
     "bpm": 125,
     "duration": "5m 17s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "false",
+    "verification": "❗Needs Review",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1003,7 +1003,7 @@
     "bpm": 122,
     "duration": "1m 52s",
     "ageRating": "Family Friendly",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1036,7 +1036,7 @@
     "bpm": 113,
     "duration": "27s",
     "ageRating": "Family Friendly",
-    "is_verified": "false",
+    "verification": "Community Submission",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1072,7 +1072,7 @@
     "has_stems": "true",
     "filesize": "9.28MB",
     "ageRating": "Family Friendly",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1113,7 +1113,7 @@
     "bpm": 126,
     "duration": "3m 14s",
     "ageRating": "Family Friendly",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1149,7 +1149,7 @@
     "music_start_time": 2181,
     "duration": "3m 39s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1188,7 +1188,7 @@
     "bpm": 106,
     "duration": "1m 38s",
     "ageRating": "Family Friendly",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1226,7 +1226,7 @@
     "bpm": 95,
     "duration": "4m 09s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "true",
+    "verification": "✅ Verified",
     "is_cover": "false",
     "currentVersion": "3",
 
@@ -1270,7 +1270,7 @@
     "bpm": 183,
     "duration": "4m 0s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "currentVersion": "1",
 
@@ -1308,7 +1308,7 @@
     "bpm": 195,
     "duration": "3m 7s",
     "ageRating": "Family Friendly",
-    "is_verified": "false",
+    "verification": "❗Needs Review",
     "is_cover": "false",
     "newYear": 2021,
     "currentVersion": "2",
@@ -1353,7 +1353,7 @@
     "bpm": 144,
     "duration": "6m 50s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "newYear": 2021,
     "currentVersion": "1",
@@ -1393,7 +1393,7 @@
     "bpm": 162,
     "duration": "13m 18s",
     "ageRating": "Mature Content",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "newYear": 2021,
     "currentVersion": "1",
@@ -1433,7 +1433,7 @@
     "bpm": 71,
     "duration": "4m 08s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "false",
+    "verification": "❗Needs Review",
     "is_cover": "false",
     "newYear": 2021,
     "currentVersion": "1",
@@ -1481,7 +1481,7 @@
     "bpm": 140,
     "duration": "4m 37s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "newYear": 2021,
     "currentVersion": "1",
@@ -1524,7 +1524,7 @@
     "bpm": 115,
     "duration": "4m 13s",
     "ageRating": "Supervision Recommended",
-    "is_verified": "false",
+    "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "newYear": 2021,
     "currentVersion": "1",
@@ -1551,6 +1551,94 @@
     "preview_time": 59220,
     "preview_end_time": 97112,
     "music_start_time": 3155
+  },
+  "bergentruckungasgore": {
+    "title": "Bergentrückung / ASGORE",
+    "artist": "Toby Fox",
+    "album": "UNDERTALE Soundtrack",
+    "charter": "tposejank",
+    "language": "English",
+    "releaseYear": 2015,
+    "genre": "Chiptune",
+    "cover": "undertale-ost.png",
+    "source": "custom",
+    "key": "D Minor",
+    "bpm": 115,
+    "filesize": "3.09MB",
+    "has_stems": "false",
+    "duration": "3m 01s",
+    "ageRating": "Family Friendly",
+    "verification": "⚠️ Needs Revising",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 5,
+      "lead": 7,
+      "bass": 7,
+      "vocals": 2,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 7,
+      "plastic-bass": 2
+    },
+    
+    "createdAt": "2024-07-28T18:18:39Z",
+    "songlink": "https://song.link/s/6WGfFSAlpAmX9MkJISNE2z",
+    "previewUrl": "bergentruckungasgore.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/acdc39ec3afa6cbc999a4cf0b3ce90a2f863f85a/Bergentr%C3%BCckung%20%2B%20ASGORE%20-%20Toby%20Fox.zip",
+    "preview_time": 70303,
+    "preview_end_time": 130671,
+    "music_start_time": 4192
+  },
+  "wonderifyoucare": {
+    "title": "wonder if you care",
+    "artist": "flyingfish",
+    "album": "isolation",
+    "charter": "tposejank",
+    "language": "English",
+    "releaseYear": 2023,
+    "genre": "Experimental",
+    "cover": "isolation.png",
+    "source": "custom",
+    "key": "C Major",
+    "bpm": 157,
+    "filesize": "3.38MB",
+    "has_stems": "false",
+    "duration": "2m 14s",
+    "ageRating": "Family Friendly",
+    "verification": "⚠️ Needs Revising",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 5,
+      "lead": 6,
+      "bass": 1,
+      "vocals": 4,
+
+      "plastic-drums": 7,
+      "plastic-guitar": 6,
+      "plastic-bass": 1
+    },
+    
+    "createdAt": "2024-07-28T02:59:07Z",
+    "songlink": "https://song.link/s/0KdEx2ETCXYZeEVAZS4sJ4",
+    "previewUrl": "wonderifyoucare.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/6b7687d72cb6900a80090fc2439607375b176ae7/flyingfish%20-%20wonder%20if%20you%20care.zip",
+    "preview_time": 42802,
+    "preview_end_time": 103949,
+    "music_start_time": 5350
   }
 }
 
