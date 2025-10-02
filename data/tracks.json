@@ -1639,6 +1639,51 @@
     "preview_time": 42802,
     "preview_end_time": 67261,
     "music_start_time": 5350
+  },
+  "imafraid": {
+    "title": "I'm Afraid",
+    "artist": "Sik World",
+    "album": "Disconnected",
+    "charter": "Equinox",
+    "language": "English",
+    "releaseYear": 2022,
+    "genre": "Rap",
+    "cover": "disconnected.png",
+    "source": "custom",
+    "loading_phrase": "If you aint playing on vocals, what are you doing here?",
+    "key": "A Minor",
+    "bpm": 145,
+    "filesize": "3.60MB",
+    "has_stems": "false",
+    "duration": "3m 33s",
+    "ageRating": "Mature Content",
+    "verification": "✅ Verified",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 4,
+      "lead": 2,
+      "bass": 1,
+      "vocals": 6,
+
+      "plastic-drums": 3,
+      "plastic-guitar": 2,
+      "plastic-bass": 1
+    },
+    
+    "createdAt": "2024-12-16T20:58:56Z",
+    "songlink": "https://song.link/s/0X6eoKnnZchF15LHcZY9Rc",
+    "previewUrl": "imafraid.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Sik%20World%20-%20I'm%20Afraid.zip",
+    "preview_time": 110000,
+    "preview_end_time": 160000,
+    "music_start_time": 3310
   }
 }
 
