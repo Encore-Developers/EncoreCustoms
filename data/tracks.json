@@ -1761,6 +1761,46 @@
     "preview_time": 47239,
     "preview_end_time": 91330,
     "music_start_time": 4295
+  },
+  "jade": {
+    "title": "Jade (prod. KBL)",
+    "artist": "4cf",
+    "charter": "exghts",
+    "language": "English",
+    "releaseYear": 2021,
+    "genre": "Hyperpop",
+    "cover": "jade.png",
+    "source": "custom",
+    "loading_phrase": "yippee",
+    "key": "B Major",
+    "bpm": 159,
+    "filesize": "12.3MB",
+    "has_stems": "true",
+    "duration": "3m 07s",
+    "ageRating": "Mature Content",
+    "verification": "✅ Verified",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 6,
+      "lead": 4,
+      "bass": 2,
+      "vocals": 6
+    },
+    
+    "createdAt": "2024-07-20T20:57:44Z",
+    "songlink": "https://song.link/s/6x2UXxRdaIBW7a9UOzSqAj",
+    "previewUrl": "jade.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Jade.zip",
+    "preview_time": 50794,
+    "preview_end_time": 75000,
+    "music_start_time": 3018
   }
 }
 
