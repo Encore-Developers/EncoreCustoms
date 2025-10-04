@@ -1115,7 +1115,7 @@
     "ageRating": "Family Friendly",
     "verification": "⚠️ Needs Revising",
     "is_cover": "false",
-    "currentVersion": "1",
+    "currentVersion": "2",
 
     "format": "json",
     "difficulties": {
@@ -1128,7 +1128,7 @@
     "createdAt": "2025-07-27T21:54:13Z",
     "songlink": "https://song.link/us/i/1634875615",
     "previewUrl": "sleepwalker.mp3",
-    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/01d11dfbda5ff236e515d9da6f29d37e7c39e993/Ava%20Max%20-%20Sleepwalker.zip",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/eefec3d63822ca662d177aa6f1aac3e29a845d7e/Ava%20Max%20-%20Sleepwalker.zip",
     "preview_time": 38000,
     "preview_end_time": 68000,
     "fish": "🐟"
@@ -1684,6 +1684,85 @@
     "preview_time": 110000,
     "preview_end_time": 160000,
     "music_start_time": 3310
+  },
+  "foreveryoung": {
+    "title": "Forever Young",
+    "artist": "David Guetta, Alphaville & Ava Max",
+    "album": "",
+    "charter": "Jaydenz",
+    "language": "English",
+    "releaseYear": 2024,
+    "genre": "Pop",
+    "cover": "foreveryoung.png",
+    "source": "custom",
+    "loading_phrase": "Forever Young....",
+    "key": "C Major",
+    "bpm": 130,
+    "filesize": "20.0MB",
+    "has_stems": "true",
+    "duration": "2m 41s",
+    "ageRating": "Family Friendly",
+    "verification": "Needs Revising",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "lead": 4,
+      "vocals": 3
+    },
+    
+    "createdAt": "2024-12-19T10:58:58Z",
+    "songlink": "https://song.link/s/3bg2qahpZmsg5wV2EMPXIk",
+    "previewUrl": "foreveryoung.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/31d9b074a6450966358628996f065cf5f3079112/David%20Guetta%20-%20Forever%20Young.zip",
+    "preview_time": 43500,
+    "preview_end_time": 67500,
+    "music_start_time": 4223
+  },
+  "dontstopfatratremix": {
+    "title": "Don't Stop (TheFatRat Remix)",
+    "artist": "TheFatRat",
+    "album": "",
+    "charter": "DeadlyBoizZ",
+    "language": "English",
+    "releaseYear": 2012,
+    "genre": "Electronic",
+    "cover": "dontstopthefatrat.png",
+    "source": "custom",
+    "key": "B Minor",
+    "bpm": 133,
+    "filesize": "3.70MB",
+    "has_stems": "false",
+    "duration": "3m 48s",
+    "ageRating": "Family Friendly",
+    "verification": "Needs Revising",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 4,
+      "lead": 6,
+      "bass": 4,
+      "vocals": 6
+    },
+    
+    "createdAt": "2024-07-07T08:53:47Z",
+    "songlink": "https://song.link/y/dHFK7dlwFGM",
+    "previewUrl": "dontstopfatratremix.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/c44d86f8a1904fda58d1880813835b03a49cde20/Foster%20the%20People%20-%20Don't%20Stop%20(%20TheFatRat%20Remix%20).zip",
+    "preview_time": 47239,
+    "preview_end_time": 91330,
+    "music_start_time": 4295
   }
 }
 
