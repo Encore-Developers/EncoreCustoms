@@ -1801,6 +1801,47 @@
     "preview_time": 50794,
     "preview_end_time": 75000,
     "music_start_time": 3018
+  },
+  "happybirthdaytoyou": {
+    "title": "Happy Birthday to You",
+    "artist": "It's Only Connor (Made famous by Patty Hill & Mildred Hill",
+    "charter": "It's Only Connor",
+    "language": "English",
+    "releaseYear": "1893 (2025)",
+    "genre": "Novelty",
+    "cover": "happybirthdaytoyou.png",
+    "source": "custom",
+    "key": "C Major",
+    "bpm": 115,
+    "filesize": "1.31MB",
+    "has_stems": "true",
+    "duration": "6m 15s",
+    "ageRating": "Family Friendly",
+    "verification": "⚠️ Needs Revising",
+    "is_cover": "true",
+    "newYear": 2025,
+    "currentVersion": "1",
+
+    "format": "ini",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 2,
+      "bass": 1,
+      "keys": 1,
+
+      "plastic-drums": 2,
+      "plastic-bass": 1,
+      "plastic-keys": 1
+    },
+    
+    "createdAt": "2025-02-22T20:01:02Z",
+    "previewUrl": "happybirthdaytoyou.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/31197705852f3485a1866addabc3adade7cc7e2a/Happy%20Birthday%20to%20You%20-%20AMFB%20Patty%20Hill%2C%20Mildred%20Hill.zip",
+    "preview_time": 3130,
+    "preview_end_time": 21913,
+    "music_start_time": 3130
   }
 }
 
