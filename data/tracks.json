@@ -1842,6 +1842,45 @@
     "preview_time": 3130,
     "preview_end_time": 21913,
     "music_start_time": 3130
+  },
+  "morejumpmore": {
+    "title": "More! Jump! More!",
+    "artist": "MORE MORE JUMP",
+    "charter": "GamerFilms111",
+    "language": "Japanese",
+    "releaseYear": 2020,
+    "genre": "Rock",
+    "cover": "morejumpmore.png",
+    "source": "custom",
+    "key": "G Major",
+    "bpm": 202,
+    "filesize": "9.70MB",
+    "has_stems": "true",
+    "duration": "1m 30s",
+    "ageRating": "Family Friendly",
+    "verification": "⚠️ Needs Revising",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 7,
+      "lead": 6,
+      "bass": 5,
+      "vocals": 4
+    },
+    
+    "createdAt": "2024-10-08T03:16:15Z",
+    "songlink": "https://song.link/s/2l44rj2fDZDv6sTgyYMPxL",
+    "previewUrl": "morejumpmore.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/437953bccf0844f4782e5da98d5fb3e332a2b5df/MORE%20MORE%20JUMP%20-%20More%20Jump%20More.zip",
+    "preview_time": 51719,
+    "preview_end_time": 92376,
+    "music_start_time": 1967
   }
 }
 
