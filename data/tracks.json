@@ -1881,6 +1881,50 @@
     "preview_time": 51719,
     "preview_end_time": 92376,
     "music_start_time": 1967
+  },
+  "lookaway": {
+    "title": "Look Away",
+    "artist": "Stars",
+    "album": "No One Is Lost",
+    "charter": "Insan3e",
+    "language": "English",
+    "releaseYear": 2014,
+    "genre": "Indie Rock",
+    "cover": "nooneislost.png",
+    "source": "custom",
+    "key": "D Major",
+    "bpm": 103,
+    "filesize": "7.71MB",
+    "has_stems": "false",
+    "duration": "4m 16s",
+    "ageRating": "Family Friendly",
+    "verification": "⚠️ Needs Revising",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 4,
+      "lead": 3,
+      "bass": 2,
+      "vocals": 3,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 4,
+      "plastic-bass": 2
+    },
+    
+    "createdAt": "2024-07-04T11:04:51Z",
+    "songlink": "https://song.link/s/6KUKg0Re4wHmgNepnPKV6f",
+    "previewUrl": "lookaway.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/a26a47e84af670e758793b30e5c8ba8d68771a00/Stars%20-%20Look%20Away.zip",
+    "preview_time": 47766,
+    "preview_end_time": 72815,
+    "music_start_time": 2316
   }
 }
 
