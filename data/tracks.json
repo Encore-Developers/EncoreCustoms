@@ -716,7 +716,7 @@
     "key": "A♭ minor",
     "bpm": 115,
     "duration": "4m 43s",
-    "ageRating": "Supervision Recommended",
+    "ageRating": "Sensitive Content",
     "verification": "❗Needs Review",
     "music_start_time": 4134,
     "is_cover": "false",
@@ -1392,7 +1392,7 @@
     "key": "G Major",
     "bpm": 162,
     "duration": "13m 18s",
-    "ageRating": "Mature Content",
+    "ageRating": "Sensitive Content",
     "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "newYear": 2021,
@@ -1523,7 +1523,7 @@
     "key": "A♭ Major",
     "bpm": 115,
     "duration": "4m 13s",
-    "ageRating": "Supervision Recommended",
+    "ageRating": "Sensitive Content",
     "verification": "⚠️ Needs Revising",
     "is_cover": "false",
     "newYear": 2021,
@@ -1925,6 +1925,48 @@
     "preview_time": 47766,
     "preview_end_time": 72815,
     "music_start_time": 2316
+  },
+  "freakyfriday": {
+    "title": "Freaky Friday (feat. Chris Brown)",
+    "artist": "Lil Dicky",
+    "charter": "Equinox",
+    "language": "English",
+    "releaseYear": 2017,
+    "genre": "Hip-Hop",
+    "cover": "freakyfriday.png",
+    "source": "custom",
+    "loading_phrase": "I didn't chart bass for this because nobody would play it.",
+    "key": "A♭ Major",
+    "bpm": 100,
+    "filesize": "13.5MB",
+    "has_stems": "false",
+    "duration": "3m 38s",
+    "ageRating": "Mature Content",
+    "verification": "✅ Verified",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 5,
+      "lead": 2,
+      "vocals": 6,
+
+      "plastic-drums": 4,
+      "plastic-guitar": 2
+    },
+    
+    "createdAt": "2025-10-08T03:55:04Z",
+    "songlink": "https://song.link/s/6dbSBQXCctYSVryynHXaZ4",
+    "previewUrl": "freakyfriday.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/f219450156fb197d18729ce6ca9d09dd2d6062b9/Lil%20Dicky%20-%20Freaky%20Friday%20(feat.%20Chris%20Brown).zip",
+    "preview_time": 52800,
+    "preview_end_time": 84000,
+    "music_start_time": 4800
   }
 }
 
