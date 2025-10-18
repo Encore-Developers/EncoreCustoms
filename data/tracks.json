@@ -1967,6 +1967,45 @@
     "preview_time": 52800,
     "preview_end_time": 84000,
     "music_start_time": 4800
+  },
+  "uhoh": {
+    "title": "Uh Oh",
+    "artist": "Tate McRae",
+    "charter": "Jaydenz",
+    "fish": "🐟",
+    "language": "English",
+    "releaseYear": 2022,
+    "genre": "Pop",
+    "cover": "uhoh.png",
+    "source": "custom",
+    "loading_phrase": "Uh-oh, I couldn't help myself",
+    "key": "B♭ Minor",
+    "bpm": 174,
+    "filesize": "61.4MB",
+    "has_stems": "true",
+    "duration": "2m 52s",
+    "ageRating": "Mature Content",
+    "verification": "⚠️ Needs Revising",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "lead": 3,
+      "vocals": 5
+    },
+    
+    "createdAt": "2025-10-08T21:13:43Z",
+    "songlink": "https://song.link/i/1646692420",
+    "previewUrl": "uhoh.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/2f39f64c2a4e29127f2d3bb08855a8a131b754f8/Tate%20McRae%20-%20uh%20oh.zip",
+    "preview_time": 57905,
+    "preview_end_time": 79952,
+    "music_start_time": 2438
   }
 }
 
