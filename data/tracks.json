@@ -2006,6 +2006,46 @@
     "preview_time": 57905,
     "preview_end_time": 79952,
     "music_start_time": 2438
+  },
+  "laughingbabybubblingremix": {
+    "title": "Laughing Baby Bubbling Remix",
+    "artist": "Marcel Plomp",
+    "charter": "Equinox",
+    "language": "English",
+    "releaseYear": 2008,
+    "genre": "Latin",
+    "cover": "laughingbabybubblingremix.png",
+    "source": "custom",
+    "loading_phrase": "I spent 40 minutes on this.",
+    "key": "N/A",
+    "bpm": 190,
+    "filesize": "3.03MB",
+    "has_stems": "false",
+    "duration": "1m 18s",
+    "ageRating": "Family Friendly",
+    "verification": "⚠️ Needs Revising",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 2,
+      "vocals": 3,
+
+      "plastic-drums": 2
+    },
+    
+    "createdAt": "2025-10-20T02:52:25Z",
+    "songlink": "https://song.link/y/aFu6BGIfllY",
+    "previewUrl": "laughingbabybubblingremix.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/3f02639008c5d634e6c6bc046350d7719fcf2639/Marcel%20Plomp%20-%20Laughing%20Baby%20Bubbling%20Remix.zip",
+    "preview_time": 12631,
+    "preview_end_time":  37011,
+    "music_start_time": 2526
   }
 }
 
