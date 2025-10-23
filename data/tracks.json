@@ -2046,6 +2046,49 @@
     "preview_time": 12631,
     "preview_end_time":  37011,
     "music_start_time": 2526
+  },
+  "falling": {
+    "title": "Falling",
+    "artist": "Sik World",
+    "album": "When Stars Align",
+    "charter": "Equinox",
+    "language": "English",
+    "releaseYear": 2019,
+    "genre": "Hip-Hop",
+    "cover": "whenstarsalign.png",
+    "source": "custom",
+    "loading_phrase": "I didn't chart bass because nobody would play it.",
+    "key": "E♭ Major",
+    "bpm": 147,
+    "filesize": "15.7MB",
+    "has_stems": "false",
+    "duration": "4m 53s",
+    "ageRating": "Mature Content",
+    "verification": "✅ Verified",
+    "is_cover": "false",
+    "newYear": 2021,
+    "currentVersion": "1",
+
+    "format": "json",
+    "fiveLaneHard": "false",
+    "doubleBass": "false",
+    "proVoxHarmonies": "0",
+    "difficulties": {
+      "drums": 4,
+      "lead": 3,
+      "vocals": 6,
+
+      "plastic-drums": 5,
+      "plastic-guitar": 3
+    },
+    
+    "createdAt": "2025-10-14T16:41:14Z",
+    "songlink": "https://song.link/s/18PHjDnMGEc2MVudN7CG9F",
+    "previewUrl": "falling.mp3",
+    "download": "https://raw.githubusercontent.com/Encore-Developers/songs/main/Sik%20World%20-%20Falling.zip",
+    "preview_time": 82204,
+    "preview_end_time": 107000,
+    "music_start_time": 3260
   }
 }
 
